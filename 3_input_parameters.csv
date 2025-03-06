@@ -1,0 +1,29 @@
+﻿category;input;cost_low;cost_average;cost_high;unit;N_conten;share_use;indirect_energy_cost;direct_energy_cost;CO2_emission_factor;N2O_emission_factor
+mineral fertilization;ammonium nitrate (33,5%);305;335;370;€/t;NA;0,7;NA;NA;NA;NA
+mineral fertilization;ammonium nitrate (33,5%);0,9;1;1,1;€/UN;NA;0,7;0,047;NA;NA;NA
+mineral fertilization;urea (46%);330;375;405;€/t;NA;0,34;NA;NA;NA;NA
+mineral fertilization;urea (46%);0,7;0,81;0,9;€/UN;NA;0,34;0,063;NA;NA;NA
+mineral fertilization;nitrogen solution (39%);255;290;320;€/m^3;NA;0,43;NA;NA;NA;NA
+mineral fertilization;nitrogen solution (39%);0,7;0,75;0,8;€/UN;NA;0,43;0,059;NA;NA;NA
+mineral fertilization;average of the 3 previous fertilizer;0,79;0,88;0,97;€/UN;NA;NA;0,054;NA;0,0048;0,00331
+mineral fertilization;triple superphosphate (45%);385;425;460;€/t;NA;NA;NA;NA;NA;NA
+mineral fertilization;triple superphosphate (45%);0,86;0,95;1,03;€/UN;NA;NA;NA;NA;NA;NA
+mineral fertilization;potassium chloride KCl (60%);340;365;385;€/t;NA;NA;NA;NA;NA;NA
+mineral fertilization;potassium chloride KCl (60%);0,57;0,61;0,64;€/UN;NA;NA;NA;NA;NA;NA
+organic fertilization;cattle manure;NA;0;NA;€/t;5,5;NA;NA;NA;NA;NA
+organic fertilization;cattle slurry;NA;0;NA;€/t;4;NA;NA;NA;NA;NA
+organic fertilization;pig slurry;NA;0;NA;€/t;3,5;NA;NA;NA;NA;NA
+organic fertilization;composted cattle manure;NA;0;NA;€/t;6,8;NA;NA;NA;NA;NA
+organic fertilization;poultry manure;30;70;115;€/t;39,5;NA;NA;NA;NA;NA
+organic fertilization;beet vinasse;55;65;100;€/t;20;NA;NA;NA;NA;NA
+organic fertilization;composted poultry manure;20;30;40;€/t;12,2;NA;NA;NA;NA;NA
+organic fertilization;meat and bone meal;280;310;390;€/t;90;NA;NA;NA;NA;NA
+organic fertilization;kieserite;300;360;460;€/t;NA;NA;NA;NA;NA;NA
+organic fertilization;azopril equivalent;NA;450;NA;€/t;NA;NA;NA;NA;NA;NA
+organic fertilization;composted green manure;NA;7;NA;€/t;10;NA;NA;NA;NA;NA
+fuel;diesel;0,65;0,7;0,75;€/L;NA;NA;NA;NA;0,0032;NA
+irrigation;cost of use;NA;0,25;NA;€/m3;NA;NA;NA;NA;NA;NA
+irrigation;cost of use;NA;2,5;NA;€/mm;NA;NA;NA;0,0464;0,0037;NA
+livestock;dairy cattle;NA;NA;NA;€/UGB;NA;NA;NA;NA;3,276;NA
+livestock;beef cattle;NA;NA;NA;€/UGB;NA;NA;NA;NA;1,945;NA
+livestock;sheep;NA;NA;NA;€/UGB;NA;NA;NA;NA;1,600;NA

@@ -1,0 +1,26 @@
+﻿operation;description;fixed_cost;cost_fuel_incl;cost_labour_incl;cost_fuel_and_labour_incl;ha_h;h_ha;fuel_cons;energy_cost
+plowing;plow;32;46;47;61;1,1;0,9;20;0,8
+secondary_tillage;2 to 3 operations;19;27;27;34;2,2;0,5;10;0,4
+sowing;cereal seeder;13;16;25;28;1,4;0,7;4;0,16
+sowing;precision seeder;19;22;27;30;2;0,5;4;0,16
+sowing;precision seeder (sugar beet);32;34;39;41;2,4;0,4;4;0,16
+sowing;potatoes planter;62;70;83;91;0,8;1,3;12;0,48
+weeding;harrow weeder;10;12;13;15;5,5;0,2;3;0,12
+weeding;cereal hoe weeder;25;27;32;34;2,4;0,4;3;0,12
+weeding;wide row how weeder;15;17;23;25;2,2;0,5;3;0,12
+spraying;sprayer;7;8;9;10;10;0,1;1;0,04
+spraying;sprayer (loalized treatment);15;16;19;20;4;0,3;2;0,08
+spreading;fertilizer spreader;3;4;5;6;10;0,1;1;0,04
+spreading;manure spreader;40;47;54;61;1,3;0,8;9;0,36
+harvest;combine harvester with two tractors and trailers;109;131;141;163;1,8;0,6;30;1,2
+harvest;sugar beet harvester with two tractors and trailers;187;231;238;282;1;1,0;65;2,6
+harvest;potatoes harvester and tractor with trailer;337;387;405;455;0,5;2,0;70;2,8
+harvest;fiber flax harvester;323;362;416;454;0,2;5,0;55;2,2
+harvest;hemp harvester;252;293;336;377;0,3;3,3;58;2,32
+harvest;corn silage;193;241;267;314;0,4;2,5;69;2,76
+harvest;hay harvest;166;187;222;243;0,3;3,3;30;1,2
+harvest;grassland silage;222;276;357;303;0,3;3,3;77;3,08
+harvest;hay wrapping;247;280;323;357;0,2;5,0;48;1,92
+other;potatoes;32;41;46;55;1,3;0,8;13;0,52
+other;other crops;26;31;34;39;2,3;0,4;7;0,28
+irrigation;one irrigation operation;19;NA;NA;NA;1;1,0;0;0

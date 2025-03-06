@@ -1,0 +1,500 @@
+crop;zone;crop_sequence_type;crop_management_strategy;crop_yield;herbicides_TFI;fungicides_TFI;insecticides_TFI;other_TFI;TFI;bio_TFI;total_N_rate;N_balance;irrigation_rate;livestock_density;milk_production;meat_production;gross_product;gross_product_livestock_incl;variable_cost;mechanization_cost;livestock_cost;gross_margin;gross_margin_livestock_incl;net_margin;net_margin_livestock_incl;total_fuel_cons;total_energy_cost;total_energy_product;energy_efficiency;number_operations;working_time;GHG_emissions;GHG_emissions_livestock_incl
+silage_corn;sheep_breeding_zone;crop_sequence_with_corn;Average conventionnal;13;1,0;0,0;0,0;0,0;1,0;0;119;83;48;1,41;1888;113;1474;2123;574;440;726;900;823;460;383;148;14,6;264;1808;11,7;8,8;2,1;4,8
+silage_corn;sheep_breeding_zone;crop_sequence_with_corn;N0;13;1,3;0,0;0,4;0,1;1,8;0;119;83;48;1,41;1888;113;1474;2123;614;444;726;860;783;417;340;149;14,6;264;1805;12,3;8,9;2,1;4,8
+silage_corn;sheep_breeding_zone;crop_sequence_with_corn;N2a;12,5;1,1;0,0;0,2;0,0;1,3;0,1;110;72;48;1,41;1888;113;1400;2123;601;450;726;799;796;349;346;150;14,2;261;1835;12,5;9,1;2,0;4,7
+silage_corn;sheep_breeding_zone;crop_sequence_with_corn;N2a bis;12,5;0,5;0,0;0,2;0,0;0,7;0,1;110;72;48;1,41;1888;113;1400;2123;573;465;726;827;824;362;359;153;14,3;261;1822;13,0;9,5;2,0;4,7
+silage_corn;sheep_breeding_zone;crop_sequence_with_corn;N2c;12,5;0,9;0,0;0,2;0,0;1,1;0,1;110;72;48;1,39;1598;108;1400;2014;591;450;679;809;744;359;294;150;14,2;261;1835;12,5;9,1;2,0;4,7
+silage_corn;sheep_breeding_zone;crop_sequence_with_temporary_grassland;Average conventionnal;13;1,1;0,0;0,0;0,0;1,1;0;89;23;9;1,39;1598;108;1474;2014;451;403;679;1023;884;620;481;145;11,0;264;2401;9,5;7,2;1,6;4,3
+silage_corn;sheep_breeding_zone;crop_sequence_with_temporary_grassland;N0;13;1,1;0,0;0,5;0,1;1,7;0;89;23;9;1,39;1598;108;1474;2014;481;407;679;993;854;586;447;145;11,0;264;2397;10,0;7,2;1,6;4,3
+silage_corn;sheep_breeding_zone;crop_sequence_with_temporary_grassland;N2a;12,5;0,9;0,0;0,3;0,0;1,2;0,1;80;13;9;1,39;1598;108;1400;2014;464;416;679;936;871;520;455;147;10,6;261;2456;10,5;7,5;1,5;4,2
+silage_corn;sheep_breeding_zone;crop_sequence_with_temporary_grassland;N2a bis;12,5;0,4;0,0;0,3;0,0;0,7;0,1;80;13;9;1,39;1598;108;1400;2014;443;431;679;957;892;526;461;149;10,7;261;2434;11,0;7,9;1,5;4,2
+silage_corn;sheep_breeding_zone;crop_sequence_organic_livestock_farming;N3;10;0,0;0,0;0,0;0,0;0,0;0;0;50;0;1,36;1433;105;1300;2017;375;357;669;925;973;568;616;131;5,2;186;3558;8,7;6,4;1,0;3,5
+winter_barley;sheep_breeding_zone;crop_sequence_with_temporary_grassland;Average conventionnal;4,5;0,7;0,3;0,0;0,0;1,0;0;85;114;0;0;0;0;698;0;261;230;0;437;-261;207;-490;78;7,8;72;924;8,3;3,8;1,3;1,3
+winter_barley;sheep_breeding_zone;crop_sequence_with_temporary_grassland;N0;4,5;1,5;0,8;0,2;0,2;2,7;0;85;114;0;0;0;0;698;0;334;243;0;363;-334;121;-577;80;7,8;72;915;10,1;3,9;1,3;1,3
+winter_barley;sheep_breeding_zone;crop_sequence_with_temporary_grassland;N2a;4;0,8;0,4;0,0;0,0;1,2;0,1;65;102;0;0;0;0;620;0;254;236;0;366;-254;130;-490;79;6,7;64;951;9,1;3,8;1,1;1,1
+triticale;sheep_breeding_zone;crop_sequence_with_temporary_grassland;Average conventionnal;4,5;0,6;0,4;0,0;0,0;1,0;0;75;103;0;0;0;0;630;0;268;228;0;362;-268;135;-495;79;7,2;71;981;8,2;3,7;1,2;1,2
+triticale;sheep_breeding_zone;crop_sequence_with_temporary_grassland;N0;4,5;1,5;0,8;0,0;0,2;2,5;0;75;103;0;0;0;0;630;0;345;238;0;285;-345;47;-583;80;7,3;71;973;9,7;3,9;1,2;1,2
+triticale;sheep_breeding_zone;crop_sequence_with_temporary_grassland;N2a;4;0,8;0,4;0,0;0,0;1,2;0,1;55;91;0;0;0;0;560;0;261;232;0;299;-261;67;-493;79;6,2;63;1022;8,9;3,8;1,0;1,0
+temporary_grassland;sheep_breeding_zone;crop_sequence_with_temporary_grassland;Average conventionnal;5,5;0,0;0,0;0,0;0,0;0,0;0;25;78;0;1,20;1244;100;660;1647;116;411;555;544;976;133;565;88;4,9;92;1873;11,1;8,2;0,7;2,9
+temporary_grassland;sheep_breeding_zone;crop_sequence_organic_livestock_farming;N3;4,5;0,0;0,0;0,0;0,0;0,0;0;0;53;0;1,15;1046;100;630;1560;95;369;544;535;921;166;552;71;2,8;75;2642;11,2;7,5;0,4;2,6
+alfalfa;sheep_breeding_zone;other_crop_sequence;Average conventionnal;6,3;0,8;0,0;0,1;0,0;0,9;0;0;-183;0;1,20;1244;100;851;1647;192;510;555;658;900;148;390;127;5,1;117;2300;10,1;9,5;0,4;2,7
+alfalfa;sheep_breeding_zone;crop_sequence_organic_livestock_farming;N3;6;0,0;0,0;0,0;0,0;0,0;0;0;-174;0;1,15;1046;100;930;1560;120;544;544;810;896;266;352;134;5,4;111;2068;10,1;10,1;0,4;2,6
+pulse_cereal_intercrop;sheep_breeding_zone;other_crop_sequence;Average conventionnal;4;0,0;0,0;0,0;0,0;0,0;0,1;40;46;0;0;0;0;560;0;199;219;0;361;-199;142;-418;77;5,3;63;1198;6,4;3,5;0,9;0,9
+pulse_cereal_intercrop;sheep_breeding_zone;crop_sequence_organic_livestock_farming;N3;3;0,0;0,0;0,0;0,0;0,0;0;0;-2;0;0;0;0;960;0;205;226;0;755;-205;529;-431;85;3,4;47;1394;6,3;3,8;0,5;0,5
+silage_corn;western_massif_central_zone;crop_sequence_with_temporary_grassland;Average conventionnal;15;1,0;0,0;0,1;0,0;1,1;0;71;60;0;1,39;0;324;1616;1264;411;382;416;1205;437;823;55;139;9,4;294;3124;9,1;6,6;1,6;4,3
+silage_corn;western_massif_central_zone;crop_sequence_with_temporary_grassland;N0;15;1,2;0,0;0,7;0,1;1,9;0;71;60;0;1,39;0;324;1616;1264;460;387;416;1156;388;770;2;140;9,4;294;3115;9,8;6,7;1,6;4,3
+silage_corn;western_massif_central_zone;crop_sequence_with_temporary_grassland;N2a;14,5;0,9;0,0;0,5;0,0;1,4;0,1;65;55;0;1,39;0;324;1550;1264;440;396;416;1110;408;714;12;142;9,2;289;3137;10,3;7,0;1,6;4,3
+silage_corn;western_massif_central_zone;crop_sequence_with_temporary_grassland;N2a bis;14,5;0,4;0,0;0,5;0,0;0,9;0,1;65;55;0;1,39;0;324;1550;1264;419;412;416;1131;429;719;17;144;9,3;289;3103;10,8;7,4;1,6;4,3
+triticale;western_massif_central_zone;crop_sequence_with_temporary_grassland;Average conventionnal;4,5;0,6;0,3;0,0;0,0;0,9;0;70;61;0;0;0;0;630;0;253;220;0;377;-253;157;-473;78;6,9;71;1025;7,9;3,6;1,0;1,0
+triticale;western_massif_central_zone;crop_sequence_with_temporary_grassland;N0;4,5;1,5;0,8;0,1;0,2;2,6;0;70;61;0;0;0;0;630;0;338;232;0;292;-338;59;-571;80;7,0;71;1014;9,7;3,8;1,0;1,0
+triticale;western_massif_central_zone;crop_sequence_with_temporary_grassland;N2a;4;0,8;0,4;0,0;0,0;1,2;0,1;50;49;0;0;0;0;560;0;254;231;0;306;-254;75;-485;80;5,9;63;1064;9,3;3,8;0,9;0,9
+triticale;western_massif_central_zone;crop_sequence_organic_livestock_farming;N3;3;0,0;0,0;0,0;0,0;0,0;0;0;62;0;0;0;0;810;0;198;264;0;612;-198;348;-462;97;3,9;47;1221;8,1;4,5;0,7;0,7
+temporary_grassland;western_massif_central_zone;crop_sequence_with_temporary_grassland;Average conventionnal;5,5;0,0;0,0;0,0;0,0;0,0;0;30;89;0;1,16;0;127;660;959;131;465;307;529;521;64;56;104;5,8;92;1576;18,7;9,6;0,8;3,0
+temporary_grassland;western_massif_central_zone;crop_sequence_organic_livestock_farming;N3;4,5;0,0;0,0;0,0;0,0;0,0;0;0;62;0;1,10;0;78;630;883;122;408;280;508;481;100;73;95;3,8;75;1960;10,7;7,9;0,5;2,6
+pulse_cereal_intercrop;western_massif_central_zone;crop_sequence_with_temporary_grassland;Average conventionnal;4;0,0;0,0;0,0;0,0;0,0;0,1;40;9;0;0;0;0;560;0;199;212;0;361;-199;149;-411;76;5,2;63;1206;6,2;3,4;0,8;0,8
+pulse_cereal_intercrop;western_massif_central_zone;crop_sequence_organic_livestock_farming;N3;3;0,0;0,0;0,0;0,0;0,0;0;0;-16;0;0;0;0;960;0;205;226;0;755;-205;529;-431;85;3,4;47;1394;6,3;3,8;0,5;0,5
+durum_wheat;mediterranean_region;crop_sequence_with_sunflower;Average conventionnal;4,8;1,1;0,9;0,0;0,0;2,0;0;160;59;0;0;0;0;1032;0;414;218;0;618;-414;400;-632;74;11,6;78;669;10,6;3,4;1,5;1,5
+durum_wheat;mediterranean_region;crop_sequence_with_sunflower;N0;5;2,1;1,6;0,3;0,1;4,1;0;160;55;0;0;0;0;1075;0;498;233;0;577;-498;345;-730;76;11,7;81;692;12,7;3,6;1,5;1,5
+durum_wheat;mediterranean_region;crop_sequence_with_sunflower;N1;4,9;2,1;1,1;0,2;0,0;3,4;0,1;160;57;0;0;0;0;1054;0;476;229;0;578;-476;349;-704;75;11,7;79;679;12,1;3,6;1,5;1,5
+durum_wheat;mediterranean_region;crop_sequence_with_sunflower;N2a;4,5;1,9;0,8;0,1;0,0;2,7;0,1;135;41;0;0;0;0;968;0;432;244;0;535;-432;291;-676;85;10,7;73;679;12,5;4,0;1,4;1,4
+durum_wheat;mediterranean_region;crop_sequence_with_sunflower;N2c;4,5;1,5;0,8;0,1;0,0;2,4;0,1;135;41;0;0;0;0;968;0;415;241;0;552;-415;312;-656;85;10,7;73;681;12,0;4,0;1,4;1,4
+sunflower;mediterranean_region;crop_sequence_with_sunflower;Average conventionnal;2,3;1,2;0,1;0,1;0,3;1,7;0;30;-25;0;0;0;0;794;0;262;233;0;532;-262;298;-495;82;4,9;61;1253;8,6;3,4;0,5;0,5
+sunflower;mediterranean_region;crop_sequence_with_sunflower;N0;2,3;1,9;0,2;0,4;0,5;3,0;0;30;-25;0;0;0;0;794;0;333;239;0;461;-333;222;-572;82;4,9;61;1245;9,4;3,5;0,5;0,5
+sunflower;mediterranean_region;crop_sequence_with_sunflower;N2a;2,2;1,5;0,0;0,1;0,0;1,6;0,5;30;-23;0;0;0;0;759;0;295;256;0;464;-295;208;-551;86;5,1;59;1156;10,1;4,1;0,5;0,5
+sunflower;mediterranean_region;crop_sequence_with_sunflower;N2a bis;2,2;0,7;0,0;0,1;0,0;0,8;0,5;30;-23;0;0;0;0;759;0;245;264;0;514;-245;250;-509;87;5,1;59;1147;10,1;4,3;0,5;0,5
+sunflower;mediterranean_region;crop_sequence_with_sunflower;N2c;2,2;1,2;0,0;0,1;0,0;1,3;0,5;30;-23;0;0;0;0;759;0;273;255;0;486;-273;231;-528;86;5,1;59;1157;10,0;4,1;0,5;0,5
+sunflower;mediterranean_region;crop_sequence_organic_irrigated_field_crops;N3;1,8;0,0;0,0;0,0;0,0;0,0;0;0;-14;0;0;0;0;1044;0;304;339;0;740;-304;401;-643;131;5,2;48;919;13,5;7,1;0,5;0,5
+sunflower;mediterranean_region;crop_sequence_organic_dry_field_crops;N3;1,3;0,0;0,0;0,0;0,0;0,0;0;0;-2;0;0;0;0;754;0;334;339;0;420;-334;81;-673;131;5,2;35;664;13,5;8,6;0,5;0,5
+soft_wheat;mediterranean_region;crop_sequence_with_oilseed_rape;Average conventionnal;5,9;1,3;1,0;0,0;0,0;2,3;0;155;49;0;0;0;0;944;0;388;231;0;556;-388;325;-619;78;11,6;93;806;11,4;3,7;1,5;1,5
+soft_wheat;mediterranean_region;crop_sequence_with_oilseed_rape;N0;6;2,2;1,8;0,3;0,4;4,7;0;155;47;0;0;0;0;960;0;494;249;0;466;-494;216;-744;81;11,7;95;812;14,1;3,9;1,5;1,5
+soft_wheat;mediterranean_region;crop_sequence_with_oilseed_rape;N1;5,9;2,2;1,3;0,2;0,0;3,7;0,2;155;49;0;0;0;0;944;0;461;245;0;483;-461;239;-705;80;11,6;93;801;13,4;3,9;1,5;1,5
+soft_wheat;mediterranean_region;crop_sequence_with_oilseed_rape;N2a;5,4;1,9;0,7;0,0;0,0;2,5;0,2;130;33;0;0;0;0;864;0;389;258;0;475;-389;217;-647;90;10,7;85;799;13,4;4,3;1,3;1,3
+soft_wheat;mediterranean_region;crop_sequence_with_oilseed_rape;N2c;5,4;1,4;0,7;0,0;0,0;2,0;0,2;130;33;0;0;0;0;864;0;362;253;0;502;-362;249;-615;90;10,7;85;801;12,7;4,2;1,3;1,3
+soft_wheat;mediterranean_region;crop_sequence_organic_irrigated_field_crops;N3;2,3;0,0;0,0;0,0;0,0;0,0;0;0;77;0;0;0;0;909;0;440;276;0;469;-440;193;-716;94;3,8;36;967;10,0;4,5;0,7;0,7
+soft_wheat;mediterranean_region;crop_sequence_organic_dry_field_crops;N3;2,2;0,0;0,0;0,0;0,0;0,0;0;0;79;0;0;0;0;869;0;440;276;0;429;-440;153;-716;94;3,8;35;925;10,0;4,5;0,7;0,7
+grain_corn;mediterranean_region;crop_sequence_with_corn;Average conventionnal;9,3;1,2;0,0;0,3;0,1;1,6;0;150;98;114;0;0;0;1349;0;670;312;0;679;-670;367;-982;82;16,7;150;898;13,7;7,3;2,1;2,1
+grain_corn;mediterranean_region;crop_sequence_with_corn;N0;9,3;2,2;0,0;1,5;0,2;3,9;0;150;98;114;0;0;0;1349;0;777;325;0;572;-777;247;-1102;84;16,8;150;894;15,6;7,5;2,1;2,1
+grain_corn;mediterranean_region;crop_sequence_with_corn;N1;9,3;1,9;0,0;0,8;0,0;2,7;0,3;150;98;114;0;0;0;1349;0;745;319;0;604;-745;285;-1063;83;16,7;150;896;14,7;7,4;2,1;2,1
+grain_corn;mediterranean_region;crop_sequence_with_corn;N2a;9,1;1,1;0,0;0,8;0,0;1,9;0,3;150;100;114;0;0;0;1320;0;716;344;0;604;-716;260;-1060;91;17,1;147;859;15,9;8,2;2,1;2,1
+grain_corn;mediterranean_region;crop_sequence_with_corn;N2a bis;9,1;0,5;0,0;0,8;0,0;1,3;0,3;150;100;114;0;0;0;1320;0;685;360;0;635;-685;275;-1045;94;17,2;147;854;16,4;8,6;2,1;2,1
+grain_corn;mediterranean_region;crop_sequence_with_corn;N2c;9,1;1,1;0,0;0,8;0,0;1,9;0,3;150;100;114;0;0;0;1320;0;716;344;0;604;-716;260;-1060;91;17,1;147;859;15,9;8,2;2,1;2,1
+winter_barley;mediterranean_region;crop_sequence_with_oilseed_rape;Average conventionnal;5,3;1,7;0,7;0,0;0,1;2,5;0;115;45;0;0;0;0;822;0;340;212;0;481;-340;269;-553;72;9,1;84;926;9,8;3,3;1,2;1,2
+winter_barley;mediterranean_region;crop_sequence_with_oilseed_rape;N0;5,5;2,2;1,0;0,5;0,5;4,1;0;115;42;0;0;0;0;853;0;395;230;0;458;-395;228;-624;74;9,2;88;950;12,3;3,6;1,2;1,2
+winter_barley;mediterranean_region;crop_sequence_with_oilseed_rape;N1;5,4;2,2;0,7;0,2;0,1;3,1;0,2;115;44;0;0;0;0;837;0;369;223;0;468;-369;245;-592;73;9,2;86;937;11,4;3,5;1,2;1,2
+winter_barley;mediterranean_region;crop_sequence_with_oilseed_rape;N2a;4,9;1,9;0,5;0,2;0,0;2,5;0,2;90;26;0;0;0;0;760;0;326;242;0;433;-326;191;-568;84;8,2;78;946;12,1;3,9;1,0;1,0
+winter_barley;mediterranean_region;crop_sequence_with_oilseed_rape;N2c;4,9;1,4;0,5;0,2;0,0;2,0;0,2;90;26;0;0;0;0;760;0;303;238;0;456;-303;219;-541;83;8,2;78;949;11,5;3,9;1,0;1,0
+winter_barley;mediterranean_region;crop_sequence_organic_dry_field_crops;N3;2,3;0,0;0,0;0,0;0,0;0,0;0;0;45;0;0;0;0;621;0;345;257;0;276;-345;19;-602;84;3,4;37;1090;9,0;4,1;0,5;0,5
+oilseed_rape;mediterranean_region;crop_sequence_with_oilseed_rape;Average conventionnal;3;1,6;0,7;2,3;0,5;5,1;0;155;79;0;0;0;0;1065;0;418;247;0;647;-418;400;-665;81;11,7;79;679;13,8;3,9;1,5;1,5
+oilseed_rape;mediterranean_region;crop_sequence_with_oilseed_rape;N0;3;2,4;1,0;4,0;0,8;8,2;0;155;79;0;0;0;0;1065;0;502;269;0;563;-502;294;-771;84;11,8;79;672;16,9;4,2;1,6;1,6
+oilseed_rape;mediterranean_region;crop_sequence_with_oilseed_rape;N2a;2,9;1,9;0,8;2,2;0,0;4,9;0,3;155;82;0;0;0;0;1030;0;432;252;0;598;-432;346;-683;81;11,7;76;655;14,4;4,0;1,5;1,5
+oilseed_rape;mediterranean_region;crop_sequence_with_oilseed_rape;N2c;2,7;1,4;0,5;2,2;0,0;4,1;0,3;155;88;0;0;0;0;959;0;392;245;0;566;-392;322;-637;80;11,6;71;612;13,4;3,9;1,5;1,5
+alfalfa;mediterranean_region;other_crop_sequence;Average conventionnal;5,4;0,8;0,0;0,1;0,0;0,9;0;0;-157;0;0;0;0;729;0;159;408;0;570;-159;162;-567;79;3,2;100;3172;13,4;8,3;0,2;0,2
+sorghum;mediterranean_region;other_crop_sequence;Average conventionnal;5,5;1,1;0,0;0,0;0,1;1,2;0;110;28;0;0;0;0;743;0;300;243;0;443;-300;200;-543;81;9,2;90;972;9,4;3,9;1,1;1,1
+chickpea;mediterranean_region;other_crop_sequence;Average conventionnal;1,5;1,3;0,4;0,0;0,1;1,8;0;0;-21;0;0;0;0;825;0;331;222;0;494;-331;272;-553;86;3,4;26;769;7,5;3,7;0,3;0,3
+chickpea;mediterranean_region;crop_sequence_organic_irrigated_field_crops;N3;1,1;0,0;0,0;0,0;0,0;0,0;0;0;-16;0;0;0;0;1111;0;303;262;0;808;-303;546;-565;99;3,9;19;489;9,5;4,4;0,3;0,3
+chickpea;mediterranean_region;crop_sequence_organic_dry_field_crops;N3;1,1;0,0;0,0;0,0;0,0;0,0;0;0;-16;0;0;0;0;1111;0;303;262;0;808;-303;546;-565;99;3,9;19;489;9,5;4,4;0,3;0,3
+soybean;mediterranean_region;other_crop_sequence;Average conventionnal;2,8;1,5;0,0;0,0;0,0;1,5;0;0;-158;96;0;0;0;980;0;505;289;0;475;-505;187;-793;77;7,6;57;756;11,2;6,6;0,6;0,6
+soybean;mediterranean_region;crop_sequence_organic_irrigated_field_crops;N3;1,9;0,0;0,0;0,0;0,0;0,0;0;0;-107;60;0;0;0;1311;0;555;364;0;756;-555;392;-919;112;7,2;39;535;15,5;11,8;0,6;0,6
+triticale;mediterranean_region;other_crop_sequence;Average conventionnal;4,5;0,9;0,5;0,0;0,0;1,4;0;80;56;0;0;0;0;630;0;290;223;0;340;-290;117;-513;77;7,4;71;952;9,0;3,6;1,1;1,1
+triticale;mediterranean_region;crop_sequence_organic_irrigated_field_crops;N3;2,4;0,0;0,0;0,0;0,0;0,0;0;0;41;0;0;0;0;648;0;344;276;0;304;-344;28;-620;94;3,8;38;1005;10,0;4,5;0,6;0,6
+silage_corn;mediterranean_region;other_crop_sequence;Average conventionnal;13;1,2;0,0;0,2;0,1;1,5;0;141;77;58;0;0;0;1416;0;606;426;0;810;-606;384;-1032;143;16,1;257;1597;12,6;8,8;2,2;2,2
+winter_oilseed_flax;mediterranean_region;other_crop_sequence;Average conventionnal;1,8;1,3;1,2;0,4;0,2;3,1;0;100;42;0;0;0;0;810;0;309;242;0;501;-309;259;-551;81;8,7;44;501;12,2;3,8;1,1;1,1
+winter_protein_pea;mediterranean_region;other_crop_sequence;Average conventionnal;3,2;1,1;1,2;0,8;0,0;3,1;0;0;-99;0;0;0;0;640;0;310;234;0;330;-310;96;-544;79;3,2;51;1596;9,6;3,6;0,3;0,3
+lentil;mediterranean_region;crop_sequence_organic_dry_field_crops;N3;0,7;0,0;0,0;0,0;0,0;0,0;0;0;-8;0;0;0;0;938;0;377;262;0;561;-377;299;-639;99;3,9;12;302;9,5;4,4;0,3;0,3
+soft_wheat;eastern_massif_central_zone;crop_sequence_with_corn;Average conventionnal;6,4;1,2;0,8;0,1;0,1;2,2;0;150;56;13;0;0;0;1024;0;404;225;0;620;-404;396;-628;73;11,7;101;867;10,5;3,8;1,6;1,6
+soft_wheat;eastern_massif_central_zone;crop_sequence_with_corn;N0;6,5;2,1;1,6;0,8;0,3;4,8;0;150;54;13;0;0;0;1040;0;508;245;0;532;-508;287;-753;76;11,8;103;872;13,4;4,1;1,6;1,6
+soft_wheat;eastern_massif_central_zone;crop_sequence_with_corn;N1;6,4;2,1;1,1;0,4;0,1;3,7;0,1;150;56;13;0;0;0;1024;0;475;239;0;549;-475;310;-714;75;11,7;101;861;12,6;4,0;1,6;1,6
+soft_wheat;eastern_massif_central_zone;crop_sequence_with_corn;N2a;5,8;1,8;0,7;0,2;0,0;2,7;0,1;125;41;13;0;0;0;928;0;406;233;0;522;-406;289;-639;74;10,4;92;884;11,5;4,0;1,4;1,4
+soft_wheat;eastern_massif_central_zone;crop_sequence_with_corn;N2c;5,8;1,5;0,7;0,2;0,0;2,4;0,1;125;41;13;0;0;0;928;0;391;230;0;537;-391;307;-621;74;10,4;92;885;11,2;3,9;1,4;1,4
+soft_wheat;eastern_massif_central_zone;crop_sequence_with_oilseed_rape;Average conventionnal;6,4;1,6;1,0;0,1;0,1;2,8;0;150;63;0;0;0;0;1024;0;408;233;0;616;-408;383;-641;79;11,3;101;893;11,3;3,8;1,6;1,6
+soft_wheat;eastern_massif_central_zone;crop_sequence_with_oilseed_rape;N0;6,5;2,5;1,8;0,8;0,4;5,5;0;150;62;0;0;0;0;1040;0;515;254;0;525;-515;271;-769;82;11,4;103;897;14,4;4,1;1,6;1,6
+soft_wheat;eastern_massif_central_zone;crop_sequence_with_oilseed_rape;N1;6,4;2,5;1,3;0,4;0,1;4,3;0,2;150;63;0;0;0;0;1024;0;482;251;0;542;-482;291;-733;82;11,4;101;885;13,9;4,0;1,6;1,6
+soft_wheat;eastern_massif_central_zone;crop_sequence_with_oilseed_rape;N2a;5,8;2,0;0,7;0,2;0,0;2,9;0,2;150;74;0;0;0;0;928;0;421;257;0;507;-421;250;-678;91;11,8;92;778;13,0;4,3;1,6;1,6
+soft_wheat;eastern_massif_central_zone;crop_sequence_with_oilseed_rape;N2c;5,8;1,5;0,7;0,2;0,0;2,4;0,2;150;74;0;0;0;0;928;0;394;254;0;534;-394;280;-648;90;11,8;92;779;12,5;4,3;1,6;1,6
+soft_wheat;eastern_massif_central_zone;crop_sequence_organic_field_crops;N3;3;0,0;0,0;0,0;0,0;0,0;0;0;-54;0;0;0;0;1185;0;209;232;0;976;-209;744;-441;88;3,5;47;1350;7,9;3,9;0,3;0,3
+winter_barley;eastern_massif_central_zone;crop_sequence_with_corn;Average conventionnal;5,8;1,4;0,5;0,0;0,0;1,9;0;85;43;0;0;0;0;899;0;305;224;0;594;-305;370;-529;80;7,8;92;1182;9,2;3,7;1,1;1,1
+winter_barley;eastern_massif_central_zone;crop_sequence_with_corn;N0;6;2,1;1,0;0,8;0,2;4,1;0;85;40;0;0;0;0;930;0;379;243;0;551;-379;308;-622;83;7,9;96;1206;11,9;3,9;1,1;1,1
+winter_barley;eastern_massif_central_zone;crop_sequence_with_corn;N1;5,9;2,1;0,7;0,4;0,0;3,2;0,1;85;41;0;0;0;0;915;0;353;237;0;561;-353;324;-591;82;7,9;94;1190;11,1;3,9;1,1;1,1
+winter_barley;eastern_massif_central_zone;crop_sequence_with_corn;N2a;5,4;1,8;0,5;0,2;0,0;2,5;0,1;60;24;0;0;0;0;837;0;311;245;0;526;-311;281;-556;87;6,7;86;1276;11,2;4,1;0,9;0,9
+winter_barley;eastern_massif_central_zone;crop_sequence_with_corn;N2c;5,4;1,4;0,5;0,2;0,0;2,1;0,1;60;24;0;0;0;0;837;0;290;241;0;547;-290;307;-530;86;6,7;86;1280;10,6;4,0;0,9;0,9
+winter_barley;eastern_massif_central_zone;crop_sequence_with_oilseed_rape;Average conventionnal;6,2;2,0;0,7;0,0;0,1;2,8;0;105;40;0;0;0;0;961;0;357;232;0;604;-357;371;-590;81;8,9;99;1103;10,3;3,8;1,2;1,2
+winter_barley;eastern_massif_central_zone;crop_sequence_with_oilseed_rape;N0;6,5;2,5;1,3;0,8;0,4;5,0;0;105;35;0;0;0;0;1008;0;431;254;0;577;-431;323;-685;84;9,1;104;1141;13,4;4,1;1,2;1,2
+winter_barley;eastern_massif_central_zone;crop_sequence_with_oilseed_rape;N1;6,4;2,5;1,0;0,4;0,1;4,0;0,2;105;37;0;0;0;0;992;0;408;249;0;584;-408;334;-658;83;9,0;102;1127;12,7;4,0;1,2;1,2
+winter_barley;eastern_massif_central_zone;crop_sequence_with_oilseed_rape;N2a;5,8;2,0;0,7;0,2;0,0;2,9;0,2;80;21;0;0;0;0;899;0;345;262;0;554;-345;292;-607;93;8,1;92;1145;12,7;4,4;1,0;1,0
+winter_barley;eastern_massif_central_zone;crop_sequence_with_oilseed_rape;N2c;5,8;1,5;0,7;0,2;0,0;2,4;0,2;80;21;0;0;0;0;899;0;322;258;0;577;-322;319;-580;92;8,0;92;1148;12,1;4,3;1,0;1,0
+silage_corn;eastern_massif_central_zone;crop_sequence_with_corn;Average conventionnal;13;1,1;0,0;0,1;0,1;1,3;0;124;72;35;1,49;3152;246;1474;1961;556;435;691;918;714;482;278;152;14,5;264;1829;11,9;8,5;2,0;5,6
+silage_corn;eastern_massif_central_zone;crop_sequence_with_corn;N0;13;1,6;0,0;0,1;0,1;1,8;0;124;72;35;1,49;3152;246;1474;1961;588;439;691;886;682;447;243;153;14,5;264;1826;12,4;8,6;2,0;5,6
+silage_corn;eastern_massif_central_zone;crop_sequence_with_corn;N1;13;1,5;0,0;0,1;0,0;1,6;0,1;124;72;35;1,49;3152;246;1474;1961;581;437;691;893;689;456;252;153;14,5;264;1827;12,2;8,5;2,0;5,6
+silage_corn;eastern_massif_central_zone;crop_sequence_with_corn;N2a;12,5;1,1;0,0;0,1;0,0;1,2;0,1;115;61;35;1,49;3152;246;1400;1961;573;455;691;827;697;372;242;156;14,1;261;1846;13,2;9,1;2,0;5,5
+silage_corn;eastern_massif_central_zone;crop_sequence_with_corn;N2a bis;12,5;0,5;0,0;0,1;0,0;0,6;0,1;115;61;35;1,49;3152;246;1400;1961;543;470;691;857;727;387;257;159;14,2;261;1833;13,7;9,5;2,0;5,5
+silage_corn;eastern_massif_central_zone;crop_sequence_with_corn;N2c;12,5;0,9;0,0;0,1;0,0;1,0;0,1;115;61;35;1,15;1755;205;1400;1385;562;447;444;838;379;390;-69;155;14,1;261;1854;12,7;8,9;2,0;4,6
+silage_corn;eastern_massif_central_zone;crop_sequence_with_temporary_grassland;Average conventionnal;12;1,1;0,0;0,0;0,0;1,1;0;94;75;0;1,15;1755;205;1374;1385;439;402;444;935;502;533;100;148;11,0;246;2231;9,7;7,0;1,7;4,4
+silage_corn;eastern_massif_central_zone;crop_sequence_with_temporary_grassland;N0;12;1,5;0,0;0,1;0,1;1,7;0;94;75;0;1,15;1755;205;1374;1385;465;407;444;909;476;502;69;148;11,0;246;2226;10,3;7,1;1,7;4,4
+silage_corn;eastern_massif_central_zone;crop_sequence_with_temporary_grassland;N1;12;1,3;0,0;0,1;0,0;1,4;0,1;94;75;0;1,15;1755;205;1374;1385;458;406;444;916;483;510;77;148;11,0;246;2227;10,2;7,1;1,7;4,4
+silage_corn;eastern_massif_central_zone;crop_sequence_with_temporary_grassland;N2a;11,5;0,9;0,0;0,1;0,0;1,0;0,1;85;64;0;1,15;1755;205;1300;1385;443;416;444;857;498;441;82;150;10,6;242;2277;10,8;7,4;1,7;4,3
+silage_corn;eastern_massif_central_zone;crop_sequence_with_temporary_grassland;N2a bis;11,5;0,4;0,0;0,1;0,0;0,5;0,1;85;64;0;1,15;1755;205;1300;1385;420;432;444;880;521;449;90;153;10,7;242;2256;11,3;7,8;1,7;4,3
+oilseed_rape;eastern_massif_central_zone;crop_sequence_with_oilseed_rape;Average conventionnal;3,4;1,5;0,8;2,2;0,4;4,9;0;145;78;0;0;0;0;1207;0;403;241;0;804;-403;563;-644;76;10,9;90;822;13,5;3,7;1,5;1,5
+oilseed_rape;eastern_massif_central_zone;crop_sequence_with_oilseed_rape;N0;3,5;2,9;1,0;4,0;0,8;8,7;0;145;75;0;0;0;0;1243;0;520;263;0;723;-520;460;-782;79;11,0;92;837;16,6;4,0;1,5;1,5
+oilseed_rape;eastern_massif_central_zone;crop_sequence_with_oilseed_rape;N2a;3,4;2,4;0,8;2,0;0,0;5,2;0,5;145;78;0;0;0;0;1207;0;453;244;0;754;-453;511;-696;76;10,9;90;821;13,9;3,8;1,5;1,5
+oilseed_rape;eastern_massif_central_zone;crop_sequence_with_oilseed_rape;N2c;3,1;1,5;0,5;2,0;0,0;4,0;0,5;145;86;0;0;0;0;1101;0;391;235;0;710;-391;475;-626;75;10,9;82;752;12,6;3,6;1,5;1,5
+grain_corn;eastern_massif_central_zone;crop_sequence_with_corn;Average conventionnal;9,6;1,7;0,0;0,3;0,1;2,1;0;155;67;53;0;0;0;1392;0;561;287;0;831;-561;545;-847;85;14,2;155;1087;13,0;6,0;1,8;1,8
+grain_corn;eastern_massif_central_zone;crop_sequence_with_corn;N0;9,6;2,2;0,0;0,9;0,1;3,2;0;155;67;53;0;0;0;1392;0;619;293;0;773;-619;480;-912;86;14,3;155;1085;13,9;6,1;1,8;1,8
+grain_corn;eastern_massif_central_zone;crop_sequence_with_corn;N1;9,6;1,9;0,0;0,5;0,0;2,4;0,2;155;67;53;0;0;0;1392;0;594;289;0;798;-594;509;-883;85;14,3;155;1086;13,3;6,0;1,8;1,8
+grain_corn;eastern_massif_central_zone;crop_sequence_with_corn;N2a;9,3;1,1;0,0;0,5;0,0;1,6;0,2;155;71;53;0;0;0;1349;0;566;303;0;783;-566;479;-869;88;14,4;150;1043;13,9;6,5;1,8;1,8
+grain_corn;eastern_massif_central_zone;crop_sequence_with_corn;N2a bis;9,3;0,5;0,0;0,5;0,0;1,0;0,2;155;71;53;0;0;0;1349;0;535;319;0;813;-535;494;-854;91;14,5;150;1036;14,4;6,9;1,8;1,8
+grain_corn;eastern_massif_central_zone;crop_sequence_with_corn;N2c;9,3;0,9;0,0;0,5;0,0;1,4;0,2;155;71;53;0;0;0;1349;0;555;296;0;794;-555;498;-851;87;14,3;150;1047;13,4;6,3;1,8;1,8
+soybean;eastern_massif_central_zone;crop_sequence_with_soybean;Average conventionnal;2,9;2,1;0,0;0,0;0,0;2,1;0;8;-141;0;0;0;0;1073;0;333;252;0;740;-333;488;-585;84;3,8;67;1748;8,4;3,7;0,4;0,4
+soybean;eastern_massif_central_zone;crop_sequence_with_soybean;N0;2,9;2,3;0,0;0,0;0,1;2,4;0;8;-141;0;0;0;0;1073;0;344;251;0;729;-344;478;-595;84;3,8;67;1750;8,3;3,7;0,4;0,4
+soybean;eastern_massif_central_zone;crop_sequence_with_soybean;N2a;2,8;1,2;0,0;0,0;0,0;1,2;0,1;5;-140;0;0;0;0;1030;0;290;267;0;740;-290;473;-557;88;3,8;66;1757;8,8;4,3;0,4;0,4
+triticale;eastern_massif_central_zone;crop_sequence_with_temporary_grassland;Average conventionnal;4,9;1,2;0,3;0,0;0,0;1,5;0;85;76;0;0;0;0;686;0;301;229;0;385;-301;156;-530;80;7,8;77;986;8,7;3,8;1,2;1,2
+triticale;eastern_massif_central_zone;crop_sequence_with_temporary_grassland;N0;5;1,8;0,7;0,0;0,1;2,6;0;85;74;0;0;0;0;700;0;357;238;0;343;-357;105;-595;81;7,9;79;1000;9,9;3,9;1,2;1,2
+triticale;eastern_massif_central_zone;crop_sequence_with_temporary_grassland;N2a;4,5;1,1;0,3;0,0;0,0;1,4;0,1;65;62;0;0;0;0;630;0;282;234;0;348;-282;114;-516;81;6,8;71;1044;9,2;3,8;1,0;1,0
+triticale;eastern_massif_central_zone;crop_sequence_organic_field_crops;N3;3;0,0;0,0;0,0;0,0;0,0;0;0;-32;0;0;0;0;810;0;213;210;0;597;-213;387;-423;73;2,9;47;1629;7,3;3,2;0,3;0,3
+triticale;eastern_massif_central_zone;crop_sequence_organic_livestock_farming;N3;3;0,0;0,0;0,0;0,0;0,0;0;0;-8;0;0;0;0;810;0;202;264;0;608;-202;344;-466;97;3,9;47;1221;8,1;4,5;0,4;0,4
+temporary_grassland;eastern_massif_central_zone;crop_sequence_with_temporary_grassland;Average conventionnal;5,5;0,0;0,0;0,0;0,0;0,0;0;25;72;0;1,11;1409;102;660;1142;126;445;404;534;612;89;167;103;5,5;92;1667;10,2;8,7;0,7;3,3
+temporary_grassland;eastern_massif_central_zone;crop_sequence_organic_livestock_farming;N3;4,5;0,0;0,0;0,0;0,0;0,0;0;0;54;0;0,95;1211;96;630;1393;136;488;552;494;705;6;217;116;4,6;75;1616;9,1;9,4;0,5;2,8
+sunflower;eastern_massif_central_zone;other_crop_sequence;Average conventionnal;3;1,5;0,0;0,1;0,2;1,8;0;35;-25;0;0;0;0;1035;0;285;245;0;750;-285;505;-530;86;5,3;80;1495;9,9;3,9;0,6;0,6
+sunflower;eastern_massif_central_zone;crop_sequence_organic_field_crops;N3;2;0,0;0,0;0,0;0,0;0,0;0;0;-36;0;0;0;0;1160;0;238;301;0;922;-238;621;-539;115;4,6;53;1162;10,9;5,3;0,4;0,4
+alfalfa;eastern_massif_central_zone;crop_sequence_organic_field_crops;N3;7;0,0;0,0;0,0;0,0;0,0;0;0;-203;0;0;0;0;1085;0;107;437;0;978;-107;541;-544;83;3,3;130;3906;13,8;8,9;0,3;0,3
+lentil;eastern_massif_central_zone;crop_sequence_organic_field_crops;N3;1,2;0,0;0,0;0,0;0,0;0,0;0;0;-14;0;0;0;0;1608;0;316;239;0;1292;-316;1053;-555;92;3,7;20;554;8,0;4,0;0,3;0,3
+pulse_cereal_intercrop;eastern_massif_central_zone;crop_sequence_organic_field_crops;N3;3;0,0;0,0;0,0;0,0;0,0;0;0;-71;0;0;0;0;960;0;197;206;0;763;-197;556;-404;74;3,0;47;1594;7,1;3,2;0,2;0,2
+pulse_cereal_intercrop;eastern_massif_central_zone;crop_sequence_organic_livestock_farming;N3;3;0,0;0,0;0,0;0,0;0,0;0;0;-16;0;0;0;0;960;0;209;241;0;751;-209;510;-450;91;3,6;47;1296;7,0;4,1;0,5;0,5
+spring_barley;eastern_massif_central_zone;crop_sequence_organic_field_crops;N3;2,5;0,0;0,0;0,0;0,0;0,0;0;0;-22;0;0;0;0;850;0;204;215;0;646;-204;431;-419;74;3,0;40;1349;7,2;3,3;0,3;0,3
+soft_wheat;mountain_dairy_farming_zone;crop_sequence_with_oilseed_rape;Average conventionnal;7;1,6;1,3;0,1;0,8;3,8;0;160;34;0;0;0;0;1120;0;448;232;0;672;-448;439;-681;77;11,8;111;938;12,4;3,7;1,5;1,5
+soft_wheat;mountain_dairy_farming_zone;crop_sequence_with_oilseed_rape;N0;7;2,5;1,8;0,8;0,5;5,6;0;160;34;0;0;0;0;1120;0;522;248;0;598;-522;350;-770;80;11,9;111;931;14,7;3,9;1,5;1,5
+soft_wheat;mountain_dairy_farming_zone;crop_sequence_with_oilseed_rape;N1;6,9;2,5;1,3;0,4;0,2;4,4;0,2;160;36;0;0;0;0;1104;0;488;242;0;616;-488;374;-730;79;11,8;109;920;13,8;3,8;1,5;1,5
+soft_wheat;mountain_dairy_farming_zone;crop_sequence_with_oilseed_rape;N2a;6,3;2,0;0,7;0,2;0,0;2,9;0,2;135;22;0;0;0;0;1008;0;403;250;0;605;-403;355;-653;88;10,8;100;918;13,1;4,1;1,4;1,4
+soft_wheat;mountain_dairy_farming_zone;crop_sequence_with_oilseed_rape;N2c;6,3;1,5;0,7;0,2;0,0;2,4;0,2;135;22;0;0;0;0;1008;0;377;247;0;631;-377;385;-623;87;10,8;100;920;12,6;4,1;1,4;1,4
+soft_wheat;mountain_dairy_farming_zone;crop_sequence_with_corn;Average conventionnal;7;1,1;1,1;0,1;0,3;2,6;0;160;59;0;0;0;0;1120;0;402;223;0;718;-402;496;-624;75;11,7;111;945;10,5;3,6;1,6;1,6
+soft_wheat;mountain_dairy_farming_zone;crop_sequence_with_corn;N0;7;2,1;1,6;0,8;0,3;4,8;0;160;59;0;0;0;0;1120;0;488;239;0;632;-488;393;-727;78;11,8;111;937;12,9;3,8;1,6;1,6
+soft_wheat;mountain_dairy_farming_zone;crop_sequence_with_corn;N1;6,9;2,1;1,1;0,4;0,1;3,7;0,1;160;61;0;0;0;0;1104;0;455;233;0;649;-455;416;-688;77;11,8;109;927;12,0;3,7;1,6;1,6
+soft_wheat;mountain_dairy_farming_zone;crop_sequence_with_corn;N2a;6,3;1,8;0,7;0,2;0,0;2,7;0,1;135;47;0;0;0;0;1008;0;387;227;0;621;-387;395;-613;76;10,4;100;958;11,0;3,6;1,4;1,4
+soft_wheat;mountain_dairy_farming_zone;crop_sequence_with_corn;N2c;6,3;1,4;0,7;0,2;0,0;2,2;0,1;135;47;0;0;0;0;1008;0;363;223;0;645;-363;423;-585;76;10,4;100;960;10,4;3,6;1,4;1,4
+soft_wheat;mountain_dairy_farming_zone;crop_sequence_organic_field_crops;N3;2,8;0,0;0,0;0,0;0,0;0,0;0;0;-16;0;0;0;0;1106;0;219;256;0;887;-219;631;-475;96;3,8;44;1155;8,4;4,4;0,4;0,4
+winter_barley;mountain_dairy_farming_zone;crop_sequence_with_oilseed_rape;Average conventionnal;6,7;1,5;1,1;0,2;0,7;3,5;0;130;56;0;0;0;0;1039;0;390;229;0;648;-390;419;-619;76;10,1;107;1054;11,2;3,6;1,4;1,4
+winter_barley;mountain_dairy_farming_zone;crop_sequence_with_oilseed_rape;N0;7;2,5;1,6;1,0;0,7;5,8;0;130;51;0;0;0;0;1085;0;474;250;0;611;-474;361;-724;79;10,2;111;1088;14,2;3,9;1,4;1,4
+winter_barley;mountain_dairy_farming_zone;crop_sequence_with_oilseed_rape;N1;6,9;2,5;1,3;0,5;0,3;4,6;0,2;130;53;0;0;0;0;1070;0;447;243;0;623;-447;380;-690;78;10,2;110;1077;13,2;3,8;1,4;1,4
+winter_barley;mountain_dairy_farming_zone;crop_sequence_with_oilseed_rape;N2a;6,3;2,0;0,8;0,3;0,1;3,2;0,2;105;37;0;0;0;0;977;0;373;253;0;603;-373;351;-626;88;9,2;100;1090;12,7;4,2;1,2;1,2
+winter_barley;mountain_dairy_farming_zone;crop_sequence_with_oilseed_rape;N2c;6,3;1,5;0,8;0,3;0,1;2,7;0,2;105;37;0;0;0;0;977;0;350;249;0;627;-350;378;-599;87;9,2;100;1092;12,2;4,1;1,2;1,2
+winter_barley;mountain_dairy_farming_zone;crop_sequence_with_corn;Average conventionnal;6,8;1,5;0,9;0,1;0,4;2,9;0;130;91;0;0;0;0;1054;0;367;229;0;687;-367;458;-596;76;10,1;108;1074;10,3;3,7;1,5;1,5
+winter_barley;mountain_dairy_farming_zone;crop_sequence_with_corn;N0;7;2,1;1,6;1,0;0,6;5,3;0;130;88;0;0;0;0;1085;0;450;252;0;635;-450;383;-702;79;10,2;111;1091;13,6;4,0;1,5;1,5
+winter_barley;mountain_dairy_farming_zone;crop_sequence_with_corn;N1;6,9;2,1;1,3;0,5;0,3;4,2;0,1;130;89;0;0;0;0;1070;0;422;245;0;647;-422;402;-667;78;10,2;110;1080;12,6;3,9;1,5;1,5
+winter_barley;mountain_dairy_farming_zone;crop_sequence_with_corn;N2a;6,3;1,8;0,8;0,3;0,1;3,0;0,1;105;73;0;0;0;0;977;0;355;246;0;622;-355;376;-601;82;9,0;100;1116;11,8;4,0;1,3;1,3
+winter_barley;mountain_dairy_farming_zone;crop_sequence_with_corn;N2c;6,3;1,4;0,8;0,3;0,1;2,6;0,1;105;73;0;0;0;0;977;0;334;243;0;643;-334;400;-576;82;9,0;100;1118;11,3;4,0;1,3;1,3
+silage_corn;mountain_dairy_farming_zone;crop_sequence_with_corn;Average conventionnal;13;1,3;0,0;0,0;0,0;1,3;0;133;92;0;1,77;10004;120;1358;5206;491;371;1824;867;2891;496;2520;137;12,7;250;1964;10,7;6,7;1,9;7,7
+silage_corn;mountain_dairy_farming_zone;crop_sequence_with_corn;N0;13;2,2;0,0;0,2;0,1;2,5;0;133;92;0;1,77;10004;120;1358;5206;551;377;1824;807;2831;429;2453;138;12,7;250;1958;11,6;6,8;1,9;7,7
+silage_corn;mountain_dairy_farming_zone;crop_sequence_with_corn;N1;13;1,9;0,0;0,2;0,0;2,1;0,1;133;92;0;1,77;10004;120;1358;5206;537;376;1824;821;2845;445;2469;138;12,7;250;1959;11,4;6,8;1,9;7,7
+silage_corn;mountain_dairy_farming_zone;crop_sequence_with_corn;N2a;12,5;1,1;0,0;0,2;0,0;1,3;0,1;130;93;0;1,77;10004;120;1300;5206;525;393;1824;775;2857;383;2465;141;12,7;242;1904;12,1;7,4;1,9;7,7
+silage_corn;mountain_dairy_farming_zone;crop_sequence_with_corn;N2a bis;12,5;0,5;0,0;0,2;0,0;0,7;0,1;130;93;0;1,77;10004;120;1300;5206;494;408;1824;806;2888;398;2480;144;12,8;242;1889;12,6;7,8;1,9;7,7
+silage_corn;mountain_dairy_farming_zone;crop_sequence_with_corn;N2c;12,5;0,9;0,0;0,2;0,0;1,1;0,1;130;93;0;1,37;7333;87;1300;3980;514;385;1280;786;2186;401;1801;140;12,7;242;1913;11,6;7,2;1,9;6,4
+oilseed_rape;mountain_dairy_farming_zone;crop_sequence_with_oilseed_rape;Average conventionnal;3,9;1,6;0,9;1,9;0,7;5,1;0;165;94;0;0;0;0;1385;0;431;251;0;954;-431;702;-682;81;12,2;103;844;13,8;4,0;1,7;1,7
+oilseed_rape;mountain_dairy_farming_zone;crop_sequence_with_oilseed_rape;N0;4;2,9;1,0;4,0;0,8;8,7;0;165;91;0;0;0;0;1420;0;533;274;0;887;-533;613;-807;84;12,3;105;856;17,0;4,3;1,7;1,7
+oilseed_rape;mountain_dairy_farming_zone;crop_sequence_with_oilseed_rape;N2a;3,9;2,4;0,8;2,0;0,0;5,2;0,3;165;94;0;0;0;0;1385;0;461;255;0;924;-461;669;-715;81;12,2;103;842;14,3;4,0;1,7;1,7
+oilseed_rape;mountain_dairy_farming_zone;crop_sequence_with_oilseed_rape;N2c;3,6;1,5;0,5;2,0;0,0;4,0;0,3;165;102;0;0;0;0;1278;0;399;246;0;879;-399;633;-645;80;12,2;95;781;13,0;3,9;1,7;1,7
+grain_corn;mountain_dairy_farming_zone;crop_sequence_with_corn;Average conventionnal;9,6;1,7;0,0;0,3;0,1;2,1;0;155;67;53;0;0;0;1392;0;561;287;0;831;-561;545;-847;85;14,2;155;1087;13,0;6,0;1,8;1,8
+grain_corn;mountain_dairy_farming_zone;crop_sequence_with_corn;N0;9,6;2,2;0,0;0,9;0,1;3,2;0;155;67;53;0;0;0;1392;0;619;293;0;773;-619;480;-912;86;14,3;155;1085;13,9;6,1;1,8;1,8
+grain_corn;mountain_dairy_farming_zone;crop_sequence_with_corn;N1;9,6;1,9;0,0;0,5;0,0;2,4;0,2;155;67;53;0;0;0;1392;0;594;289;0;798;-594;509;-883;85;14,3;155;1086;13,3;6,0;1,8;1,8
+grain_corn;mountain_dairy_farming_zone;crop_sequence_with_corn;N2a;9,3;1,1;0,0;0,5;0,0;1,6;0,2;155;71;53;0;0;0;1349;0;566;303;0;783;-566;479;-869;88;14,4;150;1043;13,9;6,5;1,8;1,8
+grain_corn;mountain_dairy_farming_zone;crop_sequence_with_corn;N2a bis;9,3;0,5;0,0;0,5;0,0;1,0;0,2;155;71;53;0;0;0;1349;0;535;319;0;813;-535;494;-854;91;14,5;150;1036;14,4;6,9;1,8;1,8
+grain_corn;mountain_dairy_farming_zone;crop_sequence_with_corn;N2c;9,3;0,9;0,0;0,5;0,0;1,4;0,2;155;71;53;0;0;0;1349;0;556;303;0;793;-556;489;-859;88;14,4;150;1043;13,9;6,5;1,8;1,8
+grain_corn;mountain_dairy_farming_zone;crop_sequence_organic_field_crops;N3;5;0,0;0,0;0,0;0,0;0,0;0;0;78;0;0;0;0;1475;0;438;329;0;1037;-438;708;-767;112;4,5;81;1809;11,5;6,1;0,8;0,8
+soybean;mountain_dairy_farming_zone;crop_sequence_with_soybean;Average conventionnal;3;1,9;0,0;0,0;0,0;1,9;0;0;-146;0;0;0;0;1050;0;303;224;0;747;-303;522;-528;75;3,0;61;2049;7,9;3,2;0,3;0,3
+soybean;mountain_dairy_farming_zone;crop_sequence_with_soybean;N0;3;2,3;0,0;0,0;0,1;2,4;0;0;-146;0;0;0;0;1050;0;325;222;0;725;-325;503;-547;74;3,0;61;2058;7,6;3,2;0,3;0,3
+soybean;mountain_dairy_farming_zone;crop_sequence_with_soybean;N2a;2,9;1,2;0,0;0,0;0,0;1,2;0,1;0;-141;0;0;0;0;1015;0;270;238;0;745;-270;507;-508;78;3,1;59;1900;8,1;3,8;0,3;0,3
+soybean;mountain_dairy_farming_zone;crop_sequence_organic_field_crops;N3;2;0,0;0,0;0,0;0,0;0,0;0;0;-113;0;0;0;0;1380;0;384;294;0;996;-384;703;-677;104;4,2;41;980;11,0;5,4;0,3;0,3
+triticale;mountain_dairy_farming_zone;crop_sequence_with_temporary_grassland;Average conventionnal;5,8;1,1;0,3;0,0;0,2;1,6;0;105;82;0;0;0;0;812;0;319;227;0;493;-319;266;-546;78;8,8;91;1036;9,0;3,7;1,3;1,3
+triticale;mountain_dairy_farming_zone;crop_sequence_with_temporary_grassland;N0;6;1,8;0,7;0,0;0,1;2,6;0;105;78;0;0;0;0;840;0;375;234;0;465;-375;231;-609;79;8,9;94;1067;10,0;3,8;1,3;1,3
+triticale;mountain_dairy_farming_zone;crop_sequence_with_temporary_grassland;N2a;5,4;1,1;0,3;0,0;0,0;1,4;0,1;85;68;0;0;0;0;756;0;300;230;0;456;-300;226;-530;79;7,8;85;1096;9,3;3,7;1,2;1,2
+triticale;mountain_dairy_farming_zone;crop_sequence_organic_field_crops;N3;3;0,0;0,0;0,0;0,0;0,0;0;0;20;0;0;0;0;810;0;202;264;0;608;-202;344;-466;97;3,9;47;1221;8,1;4,5;0,5;0,5
+triticale;mountain_dairy_farming_zone;crop_sequence_organic_livestock_farming;N3;3;0,0;0,0;0,0;0,0;0,0;0;0;62;0;0;0;0;810;0;202;264;0;608;-202;344;-466;97;3,9;47;1221;8,1;4,5;0,7;0,7
+temporary_grassland;mountain_dairy_farming_zone;crop_sequence_with_temporary_grassland;Average conventionnal;6,5;0,0;0,0;0,0;0,0;0,0;0;30;84;0;1,03;4630;60;780;3105;132;506;889;648;2084;143;1579;105;5,8;108;1855;14,2;10,2;0,8;4,1
+temporary_grassland;mountain_dairy_farming_zone;crop_sequence_organic_livestock_farming;N3;5,5;0,0;0,0;0,0;0,0;0,0;0;0;24;0;0,98;3199;47;770;1608;137;515;637;633;834;118;319;108;4,3;92;2127;13,1;10,4;0,4;3,6
+alfalfa;mountain_dairy_farming_zone;other_crop_sequence;Average conventionnal;9;0,8;0,0;0,1;0,0;0,9;0;0;-261;0;1,03;4630;60;1215;3105;225;661;889;990;1991;329;1330;164;6,6;167;2533;12,9;12,3;0,5;3,9
+alfalfa;mountain_dairy_farming_zone;crop_sequence_organic_field_crops;N3;8;0,0;0,0;0,0;0,0;0,0;0;0;-232;0;0,00;0;0;1240;0;117;520;0;1123;-117;602;-638;98;3,9;148;3780;16,3;10,6;0,3;0,3
+pulse_cereal_intercrop;mountain_dairy_farming_zone;crop_sequence_organic_livestock_farming;N3;3,5;0,0;0,0;0,0;0,0;0,0;0;0;-27;0;0;0;0;1120;0;210;243;0;910;-210;667;-453;92;3,7;55;1501;7,1;4,1;0,5;0,5
+grain_corn;corn_cultivation_zone;crop_sequence_with_corn;Average conventionnal;10,5;1,5;0,0;0,3;0,2;2,0;0;175;74;62;0;0;0;1523;0;586;297;0;937;-586;640;-883;87;15,8;169;1069;13,3;6,2;2,0;2,0
+grain_corn;corn_cultivation_zone;crop_sequence_with_corn;N0;10,5;2,2;0,0;1,5;0,2;3,9;0;175;74;62;0;0;0;1523;0;677;310;0;846;-677;536;-987;88;15,9;169;1064;15,1;6,4;2,0;2,0
+grain_corn;corn_cultivation_zone;crop_sequence_with_corn;N1;10,5;1,9;0,0;0,8;0,0;2,7;0,3;175;74;62;0;0;0;1523;0;644;304;0;878;-644;575;-948;87;15,9;169;1066;14,2;6,3;2,0;2,0
+grain_corn;corn_cultivation_zone;crop_sequence_with_corn;N2a;10,2;1,1;0,0;0,8;0,0;1,9;0,3;175;78;62;0;0;0;1479;0;620;326;0;859;-620;533;-946;95;16,2;165;1016;15,2;7,0;2,0;2,0
+grain_corn;corn_cultivation_zone;crop_sequence_with_corn;N2a bis;10,2;0,5;0,0;0,8;0,0;1,3;0,3;175;78;62;0;0;0;1479;0;589;342;0;890;-589;549;-930;98;16,3;165;1010;15,7;7,4;2,0;2,0
+grain_corn;corn_cultivation_zone;crop_sequence_with_corn;N2c;10,2;1,1;0,0;0,8;0,0;1,9;0,3;175;78;62;0;0;0;1479;0;620;326;0;859;-620;533;-946;95;16,2;165;1016;15,2;7,0;2,0;2,0
+grain_corn;corn_cultivation_zone;crop_sequence_with_oilseed_rape;Average conventionnal;8,6;1,7;0,0;0,3;0,1;2,1;0;160;95;22;0;0;0;1247;0;485;277;0;762;-485;485;-762;90;13,3;139;1043;12,4;5,1;1,8;1,8
+grain_corn;corn_cultivation_zone;crop_sequence_with_oilseed_rape;N0;8,6;2,2;0,0;1,5;0,1;3,8;0;160;95;22;0;0;0;1247;0;564;288;0;683;-564;394;-853;91;13,4;139;1038;14,0;5,3;1,8;1,8
+grain_corn;corn_cultivation_zone;crop_sequence_with_oilseed_rape;N1;8,6;1,9;0,0;0,8;0,0;2,7;0,2;160;95;22;0;0;0;1247;0;531;282;0;716;-531;433;-814;90;13,3;139;1041;13,1;5,2;1,8;1,8
+grain_corn;corn_cultivation_zone;crop_sequence_with_oilseed_rape;N2a;8,3;1,1;0,0;0,8;0,0;1,9;0,2;160;98;22;0;0;0;1204;0;517;306;0;687;-517;381;-823;99;13,7;134;980;14,2;5,9;1,8;1,8
+grain_corn;corn_cultivation_zone;crop_sequence_with_oilseed_rape;N2a bis;8,3;0,5;0,0;0,8;0,0;1,3;0,2;160;98;22;0;0;0;1204;0;486;322;0;718;-486;396;-808;101;13,8;134;973;14,7;6,3;1,8;1,8
+grain_corn;corn_cultivation_zone;crop_sequence_organic_irrigated_field_crops;N3;8;0,0;0,0;0,0;0,0;0,0;0,3;0;-35;113;0;0;0;2360;0;843;424;0;1517;-843;1093;-1267;131;10,5;129;1235;17,1;9,9;1,0;1,0
+soft_wheat;corn_cultivation_zone;crop_sequence_with_corn;Average conventionnal;7,5;0,9;1,0;0,0;0,3;2,2;0;170;47;8;0;0;0;1200;0;417;228;0;783;-417;555;-645;75;12,6;119;942;10,6;3,8;1,7;1,7
+soft_wheat;corn_cultivation_zone;crop_sequence_with_corn;N0;7,5;1,5;1,6;0,3;0,3;3,7;0;170;47;8;0;0;0;1200;0;485;239;0;715;-485;477;-723;76;12,6;119;938;12,1;3,9;1,7;1,7
+soft_wheat;corn_cultivation_zone;crop_sequence_with_corn;N1;7,4;1,5;1,1;0,2;0,0;2,8;0,1;170;49;8;0;0;0;1184;0;451;234;0;733;-451;500;-684;76;12,6;117;927;11,4;3,9;1,7;1,7
+soft_wheat;corn_cultivation_zone;crop_sequence_with_corn;N2a;6,7;0,8;0,7;0,0;0,0;1,5;0,1;145;36;8;0;0;0;1072;0;365;229;0;707;-365;478;-594;76;11,3;106;941;10,5;3,8;1,5;1,5
+soft_wheat;corn_cultivation_zone;crop_sequence_with_oilseed_rape;Average conventionnal;6,3;1,3;1,2;0,0;0,2;2,7;0;160;47;0;0;0;0;1008;0;414;222;0;594;-414;373;-635;74;11,7;100;854;11,1;3,5;1,5;1,5
+soft_wheat;corn_cultivation_zone;crop_sequence_with_oilseed_rape;N0;6,5;2,2;1,8;0,3;0,4;4,7;0;160;43;0;0;0;0;1040;0;503;238;0;537;-503;300;-740;76;11,8;103;874;13,4;3,7;1,5;1,5
+soft_wheat;corn_cultivation_zone;crop_sequence_with_oilseed_rape;N1;6,4;2,2;1,3;0,2;0,0;3,7;0,2;160;45;0;0;0;0;1024;0;469;233;0;555;-469;322;-702;76;11,7;101;863;12,7;3,6;1,5;1,5
+soft_wheat;corn_cultivation_zone;crop_sequence_with_oilseed_rape;N2a;5,8;1,9;0,7;0,0;0,0;2,5;0,2;135;31;0;0;0;0;928;0;397;246;0;531;-397;285;-643;86;10,8;92;851;12,7;4,0;1,4;1,4
+soft_wheat;corn_cultivation_zone;crop_sequence_with_oilseed_rape;N2c;5,8;1,4;0,7;0,0;0,0;2,0;0,2;135;31;0;0;0;0;928;0;371;242;0;557;-371;315;-613;85;10,7;92;853;12,1;4,0;1,4;1,4
+soft_wheat;corn_cultivation_zone;crop_sequence_organic_irrigated_field_crops;N3;3,5;0,0;0,0;0,0;0,0;0,0;0;0;9;0;0;0;0;1383;0;450;230;0;932;-450;702;-680;72;2,9;55;1920;8,0;3,5;0,5;0,5
+soft_wheat;corn_cultivation_zone;crop_sequence_organic_dry_field_crops;N3;3,5;0,0;0,0;0,0;0,0;0,0;0;0;-63;0;0;0;0;1383;0;208;212;0;1175;-208;963;-420;80;3,2;55;1728;7,0;3,5;0,3;0,3
+sunflower;corn_cultivation_zone;crop_sequence_with_oilseed_rape;Average conventionnal;2,5;1,4;0,0;0,1;0,5;2,0;0;60;0;0;0;0;0;863;0;302;239;0;561;-302;322;-540;83;6,6;67;1015;9,6;3,6;0,7;0,7
+sunflower;corn_cultivation_zone;crop_sequence_with_oilseed_rape;N0;2,5;2,2;0,0;0,6;0,5;3,3;0;60;0;0;0;0;0;863;0;388;246;0;474;-388;228;-634;84;6,6;67;1009;10,6;3,7;0,8;0,8
+sunflower;corn_cultivation_zone;crop_sequence_with_oilseed_rape;N2a;2,4;1,6;0,0;0,3;0,0;1,9;0,5;60;2;0;0;0;0;828;0;350;268;0;478;-350;210;-618;92;6,9;64;924;11,5;4,5;0,8;0,8
+sunflower;corn_cultivation_zone;crop_sequence_with_oilseed_rape;N2a bis;2,4;0,8;0,0;0,3;0,0;1,1;0,5;60;2;0;0;0;0;828;0;300;276;0;528;-300;251;-577;93;7,0;64;919;11,5;4,6;0,8;0,8
+sunflower;corn_cultivation_zone;crop_sequence_with_oilseed_rape;N2c;2,4;1,2;0,0;0,3;0,0;1,5;0,5;60;2;0;0;0;0;828;0;322;267;0;506;-322;240;-588;91;6,9;64;925;11,3;4,4;0,8;0,8
+sunflower;corn_cultivation_zone;crop_sequence_organic_dry_field_crops;N3;2;0,0;0,0;0,0;0,0;0,0;0;0;-48;0;0;0;0;1160;0;314;339;0;846;-314;507;-653;124;5,0;53;1075;13,0;6,8;0,4;0,4
+winter_barley;corn_cultivation_zone;crop_sequence_with_oilseed_rape;Average conventionnal;5,5;1,5;0,5;0,0;0,2;2,2;0;110;28;0;0;0;0;853;0;328;222;0;525;-328;303;-550;78;9,1;88;963;9,9;3,6;1,1;1,1
+winter_barley;corn_cultivation_zone;crop_sequence_with_oilseed_rape;N0;5,5;2,2;1,0;0,5;0,5;4,1;0;110;28;0;0;0;0;853;0;400;238;0;453;-400;214;-638;80;9,2;88;953;12,2;3,8;1,1;1,1
+winter_barley;corn_cultivation_zone;crop_sequence_with_oilseed_rape;N1;5,4;2,2;0,7;0,2;0,1;3,1;0,2;110;29;0;0;0;0;837;0;374;234;0;463;-374;229;-608;80;9,2;86;938;11,6;3,7;1,1;1,1
+winter_barley;corn_cultivation_zone;crop_sequence_with_oilseed_rape;N2a;4,9;1,9;0,5;0,2;0,0;2,5;0,2;85;12;0;0;0;0;760;0;332;250;0;428;-332;177;-582;90;8,2;78;949;12,0;4,2;1,0;1,0
+winter_barley;corn_cultivation_zone;crop_sequence_with_oilseed_rape;N2c;4,9;1,4;0,5;0,2;0,0;2,0;0,2;85;12;0;0;0;0;760;0;308;246;0;451;-308;205;-555;89;8,2;78;952;11,4;4,1;1,0;1,0
+winter_barley;corn_cultivation_zone;crop_sequence_organic_dry_field_crops;N3;3,5;0,0;0,0;0,0;0,0;0,0;0;0;2;0;0;0;0;945;0;374;262;0;571;-374;309;-636;92;3,7;56;1515;9,0;4,4;0,5;0,5
+soybean;corn_cultivation_zone;crop_sequence_with_soybean;Average conventionnal;3,2;1,7;0,0;0,0;0,2;1,9;0;0;-181;70;0;0;0;1120;0;458;285;0;662;-458;376;-744;82;6,5;65;997;11,3;6,1;0,5;0,5
+soybean;corn_cultivation_zone;crop_sequence_with_soybean;N0;3,2;2,3;0,0;0,0;0,1;2,4;0;0;-181;70;0;0;0;1120;0;490;285;0;630;-490;346;-774;82;6,5;65;997;11,2;6,1;0,5;0,5
+soybean;corn_cultivation_zone;crop_sequence_with_soybean;N2a;3,1;1,2;0,0;0,0;0,0;1,2;0,1;0;-175;70;0;0;0;1085;0;440;300;0;645;-440;345;-740;86;6,7;63;946;11,7;6,6;0,5;0,5
+soybean;corn_cultivation_zone;crop_sequence_organic_irrigated_field_crops;N3;2,5;0,0;0,0;0,0;0,0;0,0;0;0;-141;60;0;0;0;1725;0;523;348;0;1202;-523;854;-871;116;7,4;51;686;14,0;11,8;0,6;0,6
+oilseed_rape;corn_cultivation_zone;crop_sequence_with_oilseed_rape;Average conventionnal;3,4;1,3;0,6;1,8;0,4;4,1;0;155;56;0;0;0;0;1207;0;380;240;0;827;-380;587;-620;80;11,6;90;772;12,9;3,8;1,5;1,5
+oilseed_rape;corn_cultivation_zone;crop_sequence_with_oilseed_rape;N0;3,5;2,0;1,0;3,0;0,8;6,8;0;155;54;0;0;0;0;1243;0;462;256;0;780;-462;525;-718;82;11,7;92;788;15,2;4,0;1,5;1,5
+oilseed_rape;corn_cultivation_zone;crop_sequence_with_oilseed_rape;N2a;3,4;1,4;0,8;1,5;0,0;3,6;0,3;155;56;0;0;0;0;1207;0;384;237;0;823;-384;586;-621;79;11,6;90;773;12,5;3,8;1,5;1,5
+silage_corn;corn_cultivation_zone;crop_sequence_with_corn;Average conventionnal;15;1,2;0,0;0,1;0,1;1,4;0;164;85;21;1,45;3521;127;1674;2434;542;428;812;1132;1080;704;652;152;16,0;302;1891;12,0;8,0;2,3;5,6
+silage_corn;corn_cultivation_zone;crop_sequence_with_corn;N0;15;1,8;0,0;0,3;0,1;2,2;0;164;85;21;1,45;3521;127;1674;2434;591;432;812;1083;1031;651;599;152;16,0;302;1888;12,6;8,1;2,3;5,6
+silage_corn;corn_cultivation_zone;crop_sequence_with_corn;N1;15;1,6;0,0;0,2;0,0;1,8;0,1;164;85;21;1,45;3521;127;1674;2434;575;430;812;1099;1047;669;617;152;16,0;302;1889;12,3;8,1;2,3;5,6
+silage_corn;corn_cultivation_zone;crop_sequence_with_corn;N2a;14,5;1,1;0,0;0,2;0,0;1,3;0,1;155;74;21;1,45;3521;127;1600;2434;564;456;812;1036;1058;580;602;160;15,8;298;1885;13,6;8,8;2,2;5,5
+silage_corn;corn_cultivation_zone;crop_sequence_with_corn;N2a bis;14,5;0,5;0,0;0,2;0,0;0,7;0,1;155;74;21;1,45;3521;127;1600;2434;533;471;812;1067;1089;596;618;163;15,9;298;1873;14,1;9,2;2,3;5,5
+silage_corn;corn_cultivation_zone;crop_sequence_with_corn;N2c;14,5;0,9;0,0;0,2;0,0;1,1;0,1;155;74;21;1,31;2072;117;1600;1999;553;448;666;1047;780;599;332;159;15,8;298;1892;13,1;8,6;2,2;5,1
+temporary_grassland;corn_cultivation_zone;crop_sequence_with_temporary_grassland;Average conventionnal;7;0,0;0,0;0,0;0,0;0,0;0;45;66;0;1,16;1981;103;840;2097;133;473;812;707;1152;234;679;97;6,3;116;1847;13,8;9,5;0,7;3,3
+temporary_grassland;corn_cultivation_zone;crop_sequence_organic_livestock_farming;N3;6;0,0;0,0;0,0;0,0;0,0;0;0;22;0;1,03;1400;74;840;1555;129;391;603;711;823;320;432;97;9,5;100;1048;9,9;7,5;1,2;3,5
+sorghum;corn_cultivation_zone;other_crop_sequence;Average conventionnal;5,5;1,1;0,0;0,0;0,1;1,2;0;110;28;0;0;0;0;743;0;311;259;0;432;-311;173;-570;89;9,5;90;941;10,3;4,4;1,2;1,2
+winter_protein_pea;corn_cultivation_zone;other_crop_sequence;Average conventionnal;3;1,1;0,9;0,7;0,0;2,7;0;0;-93;17;0;0;0;600;0;330;225;0;270;-330;45;-555;76;3,8;47;1248;9,1;3,5;0,3;0,3
+triticale;corn_cultivation_zone;other_crop_sequence;Average conventionnal;4,8;0,9;0,4;0,0;0,1;1,4;0;95;59;0;0;0;0;672;0;296;212;0;376;-296;163;-509;73;8,1;76;935;8,3;3,4;1,1;1,1
+triticale;corn_cultivation_zone;crop_sequence_organic_livestock_farming;N3;3;0,0;0,0;0,0;0,0;0,0;0;0;7;0;0;0;0;810;0;196;231;0;614;-196;383;-427;88;14,1;47;335;6,6;3,4;2,0;2,0
+durum_wheat;corn_cultivation_zone;other_crop_sequence;Average conventionnal;6;1,0;1,2;0,1;0,1;2,4;0;180;54;20;0;0;0;1290;0;518;254;0;772;-518;518;-772;86;14,1;97;689;12,6;4,6;1,8;1,8
+winter_fababean;corn_cultivation_zone;other_crop_sequence;Average conventionnal;2,5;0,7;0,7;0,3;0,1;1,8;0;0;-95;0;0;0;0;525;0;208;200;0;317;-208;117;-408;65;2,6;40;1541;7,2;2,9;0,2;0,2
+alfalfa;corn_cultivation_zone;crop_sequence_organic_dry_field_crops;N3;6;0,0;0,0;0,0;0,0;0,0;0;0;-174;0;0;0;0;930;0;157;540;0;773;-157;233;-697;107;4,3;111;2594;17,3;11,1;0,3;0,3
+pulse_cereal_intercrop;corn_cultivation_zone;crop_sequence_organic_livestock_farming;N3;3;0,0;0,0;0,0;0,0;0,0;0;0;-16;0;0;0;0;960;0;201;220;0;759;-201;539;-421;80;10,7;47;443;6,3;3,6;1,6;1,6
+soft_wheat;western_dairy_farming_zone;crop_sequence_with_corn;Average conventionnal;7,5;1,5;1,5;0,0;0,3;3,3;0;145;10;0;0;0;0;1200;0;418;210;0;782;-418;572;-628;70;10,7;119;1110;10,7;3,3;1,4;1,4
+soft_wheat;western_dairy_farming_zone;crop_sequence_with_corn;N0;7,5;2,2;2,0;0,3;0,5;5,0;0;145;10;0;0;0;0;1200;0;493;225;0;707;-493;482;-718;72;10,8;119;1102;12,8;3,5;1,4;1,4
+soft_wheat;western_dairy_farming_zone;crop_sequence_with_corn;N1;7,4;2,2;1,5;0,2;0,2;4,0;0,1;145;12;0;0;0;0;1184;0;456;219;0;728;-456;509;-675;71;10,7;117;1090;12,0;3,4;1,4;1,4
+soft_wheat;western_dairy_farming_zone;crop_sequence_with_corn;N2a;6,7;1,9;0,7;0,0;0,0;2,5;0,1;120;-1;0;0;0;0;1072;0;359;203;0;713;-359;509;-563;69;9,3;106;1142;9,6;3,2;1,2;1,2
+soft_wheat;western_dairy_farming_zone;crop_sequence_with_corn;N2c;6,7;1,4;0,7;0,0;0,0;2,0;0,1;120;-1;0;0;0;0;1072;0;333;199;0;739;-333;540;-532;68;9,2;106;1145;9,0;3,1;1,2;1,2
+soft_wheat;western_dairy_farming_zone;crop_sequence_with_temporary_grassland;Average conventionnal;6,5;1,3;1,1;0,0;0,2;2,6;0;110;11;0;0;0;0;1040;0;351;214;0;689;-351;475;-565;73;8,9;103;1152;9,6;3,4;1,2;1,2
+soft_wheat;western_dairy_farming_zone;crop_sequence_with_temporary_grassland;N0;6,5;1,9;1,3;0,3;0,2;3,7;0;110;11;0;0;0;0;1040;0;397;223;0;643;-397;420;-620;75;9,0;103;1145;10,9;3,5;1,2;1,2
+soft_wheat;western_dairy_farming_zone;crop_sequence_with_temporary_grassland;N1;6,4;1,9;1,0;0,2;0,1;3,2;0,1;110;12;0;0;0;0;1024;0;379;221;0;645;-379;424;-600;74;9,0;101;1129;10,6;3,5;1,2;1,2
+soft_wheat;western_dairy_farming_zone;crop_sequence_with_temporary_grassland;N2a;5,8;1,4;0,7;0,0;0,0;2,0;0,1;85;-2;0;0;0;0;928;0;303;210;0;625;-303;415;-513;73;7,5;92;1217;8,9;3,3;1,0;1,0
+soft_wheat;western_dairy_farming_zone;crop_sequence_with_oilseed_rape;Average conventionnal;7,4;2,0;1,6;0,0;0,4;4,0;0;150;37;0;0;0;0;1184;0;456;240;0;728;-456;487;-697;80;11,3;117;1032;12,9;3,9;1,5;1,5
+soft_wheat;western_dairy_farming_zone;crop_sequence_with_oilseed_rape;N0;7,5;2,5;2,0;0,3;0,7;5,5;0;150;35;0;0;0;0;1200;0;517;252;0;683;-517;430;-770;81;11,4;119;1039;14,6;4,0;1,5;1,5
+soft_wheat;western_dairy_farming_zone;crop_sequence_with_oilseed_rape;N1;7,4;2,5;1,5;0,2;0,3;4,4;0,2;150;37;0;0;0;0;1184;0;481;247;0;703;-481;456;-728;80;11,4;117;1028;13,8;3,9;1,5;1,5
+soft_wheat;western_dairy_farming_zone;crop_sequence_with_oilseed_rape;N2a;6,7;2,0;0,7;0,0;0,0;2,7;0,2;125;25;0;0;0;0;1072;0;373;228;0;699;-373;471;-601;78;9,9;106;1070;10,9;3,7;1,3;1,3
+soft_wheat;western_dairy_farming_zone;crop_sequence_with_oilseed_rape;N2c;6,7;1,5;0,7;0,0;0,0;2,2;0,2;125;25;0;0;0;0;1072;0;347;224;0;725;-347;501;-571;77;9,9;106;1073;10,3;3,6;1,3;1,3
+soft_wheat;western_dairy_farming_zone;crop_sequence_organic_field_crops;N3;3,5;0,0;0,0;0,0;0,0;0,0;0;0;-47;0;0;0;0;1383;0;225;242;0;1158;-225;915;-467;88;3,5;55;1568;7,9;4,0;0,3;0,3
+soft_wheat;western_dairy_farming_zone;crop_sequence_organic_livestock_farming;N3;4;0,0;0,0;0,0;0,0;0,0;0;0;-47;0;0;0;0;1580;0;192;219;0;1388;-192;1169;-411;81;3,2;63;1948;6,5;3,6;0,3;0,3
+silage_corn;western_dairy_farming_zone;crop_sequence_with_corn;Average conventionnal;14;1,4;0,0;0,0;0,0;1,4;0;64;12;0;1,86;8282;281;1574;3665;453;432;1090;1121;2122;688;1689;160;9,9;283;2864;11,7;7,8;1,5;6,9
+silage_corn;western_dairy_farming_zone;crop_sequence_with_corn;N0;14;2,2;0,0;0,1;0,1;2,4;0;64;12;0;1,86;8282;281;1574;3665;502;437;1090;1072;2073;635;1636;161;9,9;283;2856;12,4;7,9;1,5;6,9
+silage_corn;western_dairy_farming_zone;crop_sequence_with_corn;N1;14;1,9;0,0;0,1;0,0;2,0;0,1;64;12;0;1,86;8282;281;1574;3665;487;436;1090;1087;2088;651;1652;161;9,9;283;2858;12,2;7,9;1,5;6,9
+silage_corn;western_dairy_farming_zone;crop_sequence_with_corn;N2a;13,5;1,1;0,0;0,1;0,0;1,2;0,1;55;1;0;1,86;8282;281;1500;3665;476;461;1090;1024;2099;564;1639;169;9,7;279;2867;13,3;8,7;1,4;6,8
+silage_corn;western_dairy_farming_zone;crop_sequence_with_corn;N2a bis;13,5;0,5;0,0;0,1;0,0;0,6;0,1;55;1;0;1,86;8282;281;1500;3665;445;476;1090;1055;2130;579;1654;172;9,8;279;2837;13,8;9,0;1,4;6,9
+silage_corn;western_dairy_farming_zone;crop_sequence_with_corn;N2c;13,5;0,9;0,0;0,1;0,0;1,0;0,1;55;1;0;1,44;5004;147;1500;2353;465;453;605;1035;1283;582;830;168;9,7;279;2884;12,8;8,4;1,4;5,7
+silage_corn;western_dairy_farming_zone;crop_sequence_with_temporary_grassland;Average conventionnal;13;1,3;0,0;0,0;0,0;1,3;0;25;-17;0;1,44;5004;147;1300;2353;370;337;605;930;1378;593;1041;127;6,4;242;3763;8,9;6,0;1,0;5,2
+silage_corn;western_dairy_farming_zone;crop_sequence_with_temporary_grassland;N0;13;1,6;0,0;0,1;0,1;1,8;0;25;-17;0;1,44;5004;147;1300;2353;394;339;605;906;1354;567;1015;127;6,5;242;3754;9,3;6,0;1,0;5,2
+silage_corn;western_dairy_farming_zone;crop_sequence_with_temporary_grassland;N1;13;1,4;0,0;0,1;0,0;1,5;0,1;25;-17;0;1,44;5004;147;1300;2353;384;338;605;916;1364;578;1026;127;6,4;242;3759;9,1;6,0;1,0;5,2
+silage_corn;western_dairy_farming_zone;crop_sequence_with_temporary_grassland;N2a;12,5;0,9;0,0;0,1;0,0;1,0;0,1;25;-11;0;1,44;5004;147;1250;2353;374;357;605;876;1374;519;1017;134;6,7;233;3461;10,1;6,6;1,0;5,2
+silage_corn;western_dairy_farming_zone;crop_sequence_with_temporary_grassland;N2a bis;12,5;0,4;0,0;0,1;0,0;0,5;0,1;25;-11;0;1,44;5004;147;1250;2353;351;373;605;899;1397;526;1024;137;6,8;233;3411;10,6;7,0;1,0;5,2
+silage_corn;western_dairy_farming_zone;crop_sequence_organic_livestock_farming;N3;11,5;0,0;0,0;0,0;0,0;0,0;0;0;-91;0;1,10;4090;85;1495;2240;393;343;535;1102;1312;759;969;133;5,3;214;4021;8,8;6,2;0,6;3,9
+grain_corn;western_dairy_farming_zone;crop_sequence_with_corn;Average conventionnal;9,1;1,6;0,0;0,1;0,0;1,7;0;63;67;21;0;0;0;1378;0;425;323;0;952;-425;629;-748;107;8,7;154;1776;12,3;6,0;1,3;1,3
+grain_corn;western_dairy_farming_zone;crop_sequence_with_corn;N0;9,1;2,2;0,0;0,5;0,1;2,8;0;63;67;21;0;0;0;1378;0;477;330;0;900;-477;570;-808;108;8,7;154;1768;13,3;6,1;1,3;1,3
+grain_corn;western_dairy_farming_zone;crop_sequence_with_corn;N1;9,1;1,9;0,0;0,3;0,0;2,2;0,2;63;67;21;0;0;0;1378;0;460;328;0;918;-460;590;-787;108;8,7;154;1772;12,9;6,1;1,3;1,3
+grain_corn;western_dairy_farming_zone;crop_sequence_with_corn;N2a;8,8;1,1;0,0;0,3;0,0;1,4;0,2;60;65;21;0;0;0;1326;0;451;352;0;875;-451;524;-802;116;8,9;151;1706;14,0;6,8;1,3;1,3
+grain_corn;western_dairy_farming_zone;crop_sequence_with_corn;N2a bis;8,8;0,5;0,0;0,3;0,0;0,8;0,2;60;65;21;0;0;0;1326;0;420;367;0;906;-420;539;-787;118;9,0;151;1687;14,5;7,2;1,3;1,3
+grain_corn;western_dairy_farming_zone;crop_sequence_with_corn;N2c;8,8;0,9;0,0;0,3;0,0;1,2;0,2;60;65;21;0;0;0;1326;0;441;352;0;885;-441;534;-792;116;8,9;151;1706;14,0;6,8;1,3;1,3
+grain_corn;western_dairy_farming_zone;crop_sequence_organic_field_crops;N3;7;0,0;0,0;0,0;0,0;0,0;0;0;153;0;0;0;0;2065;0;803;341;0;1262;-803;921;-1144;119;4,7;113;2381;12,8;6,2;1,2;1,2
+winter_barley;western_dairy_farming_zone;crop_sequence_with_corn;Average conventionnal;6,9;1,5;1,3;0,1;0,5;3,4;0;115;32;0;0;0;0;1070;0;372;217;0;697;-372;480;-589;73;9,2;110;1198;10,2;3,4;1,2;1,2
+winter_barley;western_dairy_farming_zone;crop_sequence_with_corn;N0;7;2,2;1,6;0,4;0,6;4,8;0;115;30;0;0;0;0;1085;0;430;234;0;655;-430;421;-664;75;9,3;111;1203;12,6;3,7;1,2;1,2
+winter_barley;western_dairy_farming_zone;crop_sequence_with_corn;N1;6,9;2,2;1,3;0,2;0,3;4,0;0,1;115;32;0;0;0;0;1070;0;405;229;0;664;-405;435;-634;75;9,2;110;1189;11,9;3,6;1,2;1,2
+winter_barley;western_dairy_farming_zone;crop_sequence_with_corn;N2a;6,3;1,9;0,8;0,1;0,1;2,9;0,1;90;16;0;0;0;0;977;0;334;227;0;642;-334;415;-561;78;8,0;100;1252;10,8;3,7;1,0;1,0
+winter_barley;western_dairy_farming_zone;crop_sequence_with_corn;N2c;6,3;1,4;0,8;0,1;0,1;2,4;0,1;90;16;0;0;0;0;977;0;311;223;0;666;-311;443;-534;78;8,0;100;1255;10,2;3,6;1,0;1,0
+winter_barley;western_dairy_farming_zone;crop_sequence_with_oilseed_rape;Average conventionnal;6,5;1,7;1,1;0,0;0,4;3,2;0;105;45;0;0;0;0;1008;0;367;240;0;641;-367;401;-607;82;9,0;104;1154;11,2;3,9;1,2;1,2
+winter_barley;western_dairy_farming_zone;crop_sequence_with_oilseed_rape;N0;6,5;2,5;1,6;0,4;0,7;5,2;0;105;45;0;0;0;0;1008;0;446;258;0;562;-446;304;-704;84;9,1;104;1142;13,7;4,1;1,2;1,2
+winter_barley;western_dairy_farming_zone;crop_sequence_with_oilseed_rape;N1;6,4;2,5;1,3;0,2;0,3;4,3;0,2;105;46;0;0;0;0;992;0;422;253;0;570;-422;317;-675;83;9,0;102;1127;13,0;4,1;1,2;1,2
+winter_barley;western_dairy_farming_zone;crop_sequence_with_oilseed_rape;N2a;5,9;2,0;0,8;0,1;0,1;3,0;0,2;80;29;0;0;0;0;915;0;345;255;0;569;-345;314;-600;89;7,9;94;1190;12,1;4,2;1,1;1,1
+winter_barley;western_dairy_farming_zone;crop_sequence_with_oilseed_rape;N2c;5,9;1,5;0,8;0,1;0,1;2,5;0,2;80;29;0;0;0;0;915;0;322;251;0;593;-322;342;-573;88;7,9;94;1193;11,5;4,2;1,1;1,1
+oilseed_rape;western_dairy_farming_zone;crop_sequence_with_corn;Average conventionnal;4;1,5;0,9;1,2;0,4;4,0;0;105;93;0;0;0;0;1420;0;350;263;0;1070;-350;808;-612;85;9,1;105;1158;12,6;4,2;1,5;1,5
+oilseed_rape;western_dairy_farming_zone;crop_sequence_with_corn;N0;4;2,0;1,0;2,0;0,8;5,8;0;105;93;0;0;0;0;1420;0;401;273;0;1019;-401;746;-674;86;9,2;105;1151;14,0;4,4;1,5;1,5
+oilseed_rape;western_dairy_farming_zone;crop_sequence_with_corn;N2a;3,9;1,4;0,8;1,0;0,0;3,2;0,3;105;96;0;0;0;0;1385;0;333;261;0;1051;-333;791;-594;85;9,1;103;1131;12,3;4,2;1,5;1,5
+oilseed_rape;western_dairy_farming_zone;crop_sequence_with_corn;N2c;3,6;1,1;0,5;1,0;0,0;2,6;0,3;105;104;0;0;0;0;1278;0;305;253;0;973;-305;720;-558;84;9,1;95;1049;11,2;4,1;1,5;1,5
+triticale;western_dairy_farming_zone;crop_sequence_with_temporary_grassland;Average conventionnal;6,4;1,5;0,9;0,0;0,2;2,6;0;100;19;0;0;0;0;896;0;350;212;0;546;-350;335;-561;72;8,3;101;1211;9,3;3,3;1,1;1,1
+triticale;western_dairy_farming_zone;crop_sequence_with_temporary_grassland;N0;6,5;1,8;1,2;0,0;0,2;3,2;0;100;17;0;0;0;0;910;0;385;216;0;525;-385;309;-601;73;8,3;102;1226;10,0;3,4;1,1;1,1
+triticale;western_dairy_farming_zone;crop_sequence_with_temporary_grassland;N2a;5,9;1,1;0,5;0,0;0,0;1,6;0,1;80;7;0;0;0;0;826;0;283;207;0;543;-283;336;-490;72;7,2;93;1289;8,7;3,3;0,9;0,9
+triticale;western_dairy_farming_zone;crop_sequence_organic_livestock_farming;N3;4;0,0;0,0;0,0;0,0;0,0;0;0;-39;0;0;0;0;1080;0;166;219;0;914;-166;695;-385;81;3,2;63;1942;6,5;3,6;0,3;0,3
+temporary_grassland;western_dairy_farming_zone;crop_sequence_with_temporary_grassland;Average conventionnal;8;0,0;0,0;0,0;0,0;0,0;0;65;98;0;1,44;5004;147;960;2353;199;668;605;761;1549;94;882;165;10,1;133;1313;14,1;12,6;1,2;5,4
+temporary_grassland;western_dairy_farming_zone;crop_sequence_organic_livestock_farming;N3;7;0,0;0,0;0,0;0,0;0,0;0;0;44;0;1,10;4090;85;980;2240;158;658;535;822;1547;164;889;147;5,9;116;1981;14,6;12,9;0,6;3,9
+potatoes;western_dairy_farming_zone;other_crop_sequence;Average conventionnal;38;1,9;7,5;2,7;0,4;12,5;0;60;-12;0;0;0;0;6650;0;4391;638;0;2259;-4391;1621;-5029;169;10,0;131;1310;19,8;8,7;1,2;1,2
+durum_wheat;western_dairy_farming_zone;other_crop_sequence;Average conventionnal;6,7;1,4;1,5;0,0;0,2;3,1;0;195;54;7;0;0;0;1441;0;516;234;0;924;-516;690;-750;77;14,0;109;776;12,6;4,0;1,8;1,8
+sunflower;western_dairy_farming_zone;other_crop_sequence;Average conventionnal;2,9;1,3;0,1;0,2;0,3;1,9;0;35;9;0;0;0;0;1001;0;299;270;0;702;-299;431;-569;94;5,6;77;1370;10,6;4,6;0,7;0,7
+winter_fababean;western_dairy_farming_zone;other_crop_sequence;Average conventionnal;3,5;1,3;1,3;0,5;0,2;3,3;0;0;-133;0;0;0;0;735;0;285;211;0;450;-285;239;-496;70;2,8;56;2015;8,8;3,2;0,2;0,2
+spring_protein_pea;western_dairy_farming_zone;other_crop_sequence;Average conventionnal;4,1;1,2;1,2;1,3;0,0;3,7;0;0;-127;0;0;0;0;820;0;366;253;0;454;-366;201;-619;89;3,6;65;1822;11,2;4,4;0,3;0,3
+pulse_cereal_intercrop;western_dairy_farming_zone;crop_sequence_organic_livestock_farming;N3;4;0,0;0,0;0,0;0,0;0,0;0;0;-94;0;0;0;0;1280;0;203;214;0;1077;-203;863;-417;83;3,3;63;1906;6,6;3,5;0,3;0,3
+pulse_cereal_intercrop;western_dairy_farming_zone;crop_sequence_organic_field_crops;N3;3,5;0,0;0,0;0,0;0,0;0,0;0;0;-82;0;0;0;0;1120;0;203;214;0;917;-203;703;-417;83;3,3;55;1668;6,6;3,5;0,3;0,3
+spring_fababean;western_dairy_farming_zone;crop_sequence_organic_field_crops;N3;2,5;0,0;0,0;0,0;0,0;0,0;0;0;-95;0;0;0;0;950;0;380;247;0;570;-380;323;-627;81;3,2;40;1244;8,0;4,4;0,3;0,3
+buckwheat;western_dairy_farming_zone;crop_sequence_organic_field_crops;N3;1,2;0,0;0,0;0,0;0,0;0,0;0;0;-23;0;0;0;0;966;0;292;250;0;675;-292;425;-542;95;3,8;20;516;8,0;4,7;0,3;0,3
+soft_wheat;intermediate_limestone_plateaux_zone;crop_sequence_with_oilseed_rape;Average conventionnal;6,4;1,8;1,2;0,2;0,5;3,7;0;160;57;0;0;0;0;1024;0;446;244;0;578;-446;334;-690;80;11,9;101;849;13,1;3,9;1,6;1,6
+soft_wheat;intermediate_limestone_plateaux_zone;crop_sequence_with_oilseed_rape;N0;6,5;2,5;1,8;0,8;0,6;5,7;0;160;55;0;0;0;0;1040;0;526;259;0;514;-526;255;-785;83;12,0;103;856;15,2;4,1;1,6;1,6
+soft_wheat;intermediate_limestone_plateaux_zone;crop_sequence_with_oilseed_rape;N1;6,4;2,5;1,3;0,4;0,2;4,4;0,2;160;57;0;0;0;0;1024;0;487;250;0;537;-487;286;-738;81;11,9;101;846;14,0;4,0;1,6;1,6
+soft_wheat;intermediate_limestone_plateaux_zone;crop_sequence_with_oilseed_rape;N2a;5,8;2,0;0,7;0,2;0,0;2,9;0,2;135;43;0;0;0;0;928;0;402;258;0;526;-402;268;-660;90;10,9;92;837;13,3;4,3;1,4;1,4
+soft_wheat;intermediate_limestone_plateaux_zone;crop_sequence_with_oilseed_rape;N2c;5,8;1,5;0,7;0,2;0,0;2,4;0,2;135;43;0;0;0;0;928;0;376;255;0;552;-376;297;-631;90;10,9;92;839;12,8;4,2;1,4;1,4
+soft_wheat;intermediate_limestone_plateaux_zone;crop_sequence_with_corn;Average conventionnal;6,8;1,3;1,0;0,1;0,3;2,7;0;155;51;0;0;0;0;1088;0;396;222;0;692;-396;470;-618;74;11,4;107;944;10,9;3,5;1,6;1,6
+soft_wheat;intermediate_limestone_plateaux_zone;crop_sequence_with_corn;N0;7;2,1;1,8;0,8;0,5;5,2;0;155;48;0;0;0;0;1120;0;497;242;0;623;-497;381;-739;77;11,5;111;962;13,8;3,8;1,6;1,6
+soft_wheat;intermediate_limestone_plateaux_zone;crop_sequence_with_corn;N1;6,9;2,1;1,3;0,4;0,2;4,0;0,1;155;50;0;0;0;0;1104;0;458;234;0;646;-458;412;-692;76;11,4;109;953;12,6;3,7;1,6;1,6
+soft_wheat;intermediate_limestone_plateaux_zone;crop_sequence_with_corn;N2a;6,3;1,8;0,7;0,2;0,0;2,7;0,1;130;35;0;0;0;0;1008;0;376;224;0;632;-376;408;-600;75;10,1;100;991;11,1;3,6;1,4;1,4
+soft_wheat;intermediate_limestone_plateaux_zone;crop_sequence_with_corn;N2c;6,3;1,4;0,7;0,2;0,0;2,2;0,1;130;35;0;0;0;0;1008;0;352;220;0;656;-352;436;-572;74;10,0;100;993;10,5;3,5;1,3;1,3
+soft_wheat;intermediate_limestone_plateaux_zone;crop_sequence_organic_field_crops;N3;3;0,0;0,0;0,0;0,0;0,0;0;0;-15;0;0;0;0;1185;0;288;273;0;897;-288;624;-561;95;3,8;47;1245;9,6;4,5;0,4;0,4
+winter_barley;intermediate_limestone_plateaux_zone;crop_sequence_with_oilseed_rape;Average conventionnal;6;1,9;1,2;0,2;0,6;3,9;0;130;52;0;0;0;0;930;0;415;244;0;515;-415;271;-659;84;10,4;96;915;12,4;4,0;1,4;1,4
+winter_barley;intermediate_limestone_plateaux_zone;crop_sequence_with_oilseed_rape;N0;6;2,5;1,6;1,0;0,7;5,8;0;130;52;0;0;0;0;930;0;477;263;0;453;-477;191;-739;87;10,5;96;906;15,0;4,2;1,4;1,4
+winter_barley;intermediate_limestone_plateaux_zone;crop_sequence_with_oilseed_rape;N1;5,9;2,5;1,3;0,5;0,3;4,6;0,2;130;53;0;0;0;0;915;0;451;256;0;464;-451;208;-706;86;10,5;94;894;14,0;4,1;1,4;1,4
+winter_barley;intermediate_limestone_plateaux_zone;crop_sequence_with_oilseed_rape;N2a;5,4;2,0;0,8;0,3;0,1;3,2;0,2;105;36;0;0;0;0;837;0;376;265;0;461;-376;196;-641;95;9,5;86;904;13,5;4,5;1,2;1,2
+winter_barley;intermediate_limestone_plateaux_zone;crop_sequence_with_oilseed_rape;N2c;5,4;1,5;0,8;0,3;0,1;2,7;0,2;105;36;0;0;0;0;837;0;353;263;0;484;-353;222;-615;95;9,5;86;905;13,2;4,4;1,2;1,2
+oilseed_rape;intermediate_limestone_plateaux_zone;crop_sequence_with_oilseed_rape;Average conventionnal;3,4;2,0;1,0;2,3;0,4;5,7;0;160;99;0;0;0;0;1207;0;455;269;0;752;-455;484;-723;87;12,2;90;736;15,4;4,3;1,7;1,7
+oilseed_rape;intermediate_limestone_plateaux_zone;crop_sequence_with_oilseed_rape;N0;3,5;2,9;1,0;4,0;0,8;8,7;0;160;96;0;0;0;0;1243;0;533;285;0;710;-533;425;-817;89;12,3;92;752;17,7;4,6;1,7;1,7
+oilseed_rape;intermediate_limestone_plateaux_zone;crop_sequence_with_oilseed_rape;N2a;3,4;2,4;0,8;2,0;0,0;5,2;0,3;160;99;0;0;0;0;1207;0;460;266;0;747;-460;481;-726;87;12,2;90;737;15,0;4,3;1,7;1,7
+oilseed_rape;intermediate_limestone_plateaux_zone;crop_sequence_with_oilseed_rape;N2c;3,1;1,5;0,5;2,0;0,0;4,0;0,3;160;108;0;0;0;0;1101;0;398;257;0;702;-398;445;-655;85;12,1;82;675;13,7;4,2;1,7;1,7
+grain_corn;intermediate_limestone_plateaux_zone;crop_sequence_with_corn;Average conventionnal;9,3;1,7;0,0;0,2;0,1;2,0;0;140;55;28;0;0;0;1349;0;491;265;0;858;-491;593;-756;84;12,3;150;1225;11,4;4,9;1,6;1,6
+grain_corn;intermediate_limestone_plateaux_zone;crop_sequence_with_corn;N0;9,3;2,2;0,0;0,6;0,1;2,9;0;140;55;28;0;0;0;1349;0;532;270;0;817;-532;547;-802;84;12,3;150;1221;12,2;4,9;1,6;1,6
+grain_corn;intermediate_limestone_plateaux_zone;crop_sequence_with_corn;N1;9,3;1,9;0,0;0,3;0,0;2,2;0,2;140;55;28;0;0;0;1349;0;513;267;0;835;-513;569;-780;84;12,3;150;1223;11,7;4,9;1,6;1,6
+grain_corn;intermediate_limestone_plateaux_zone;crop_sequence_with_corn;N2a;9;1,1;0,0;0,3;0,0;1,4;0,2;140;58;28;0;0;0;1305;0;494;292;0;811;-494;519;-786;92;12,6;145;1152;12,9;5,7;1,6;1,6
+grain_corn;intermediate_limestone_plateaux_zone;crop_sequence_with_corn;N2a bis;9;0,5;0,0;0,3;0,0;0,8;0,2;140;58;28;0;0;0;1305;0;463;308;0;842;-463;534;-771;95;12,7;145;1143;13,4;6,1;1,6;1,6
+grain_corn;intermediate_limestone_plateaux_zone;crop_sequence_with_corn;N2c;9;0,9;0,0;0,3;0,0;1,2;0,2;140;58;28;0;0;0;1305;0;484;292;0;821;-484;529;-776;92;12,6;145;1152;12,9;5,7;1,6;1,6
+sunflower;intermediate_limestone_plateaux_zone;crop_sequence_with_oilseed_rape;Average conventionnal;3;1,4;0,0;0,1;0,3;1,8;0;40;-8;0;0;0;0;1035;0;297;255;0;738;-297;482;-553;89;5,7;80;1397;10,2;4,1;0,7;0,7
+sunflower;intermediate_limestone_plateaux_zone;crop_sequence_with_oilseed_rape;N0;3;1,8;0,0;0,3;0,5;2,6;0;40;-8;0;0;0;0;1035;0;342;256;0;693;-342;437;-598;89;5,7;80;1396;10,3;4,1;0,7;0,7
+sunflower;intermediate_limestone_plateaux_zone;crop_sequence_with_oilseed_rape;N2a;2,9;1,2;0,0;0,1;0,0;1,3;0,5;40;-5;0;0;0;0;1001;0;321;281;0;679;-321;398;-602;97;6,1;77;1276;11,5;4,9;0,7;0,7
+sunflower;intermediate_limestone_plateaux_zone;crop_sequence_with_oilseed_rape;N2a bis;2,9;0,6;0,0;0,1;0,0;0,7;0,5;40;-5;0;0;0;0;1001;0;287;289;0;713;-287;424;-576;98;6,1;77;1267;11,5;5,0;0,7;0,7
+sunflower;intermediate_limestone_plateaux_zone;crop_sequence_organic_field_crops;N3;2;0,0;0,0;0,0;0,0;0,0;0;0;-9;0;0;0;0;1160;0;382;333;0;778;-382;445;-715;119;4,7;53;1125;12,5;6,3;0,5;0,5
+silage_corn;intermediate_limestone_plateaux_zone;crop_sequence_with_corn;Average conventionnal;13,5;1,5;0,0;0,1;0,0;1,6;0;126;70;0;1,51;4282;350;1466;2264;489;388;835;977;940;589;552;143;12,6;266;2116;10,6;6,9;1,9;5,9
+silage_corn;intermediate_limestone_plateaux_zone;crop_sequence_with_corn;N0;13,5;2,2;0,0;0,1;0,1;2,4;0;126;70;0;1,51;4282;350;1466;2264;532;393;835;934;897;541;504;144;12,6;266;2112;11,3;6,9;1,9;5,9
+silage_corn;intermediate_limestone_plateaux_zone;crop_sequence_with_corn;N1;13,5;1,9;0,0;0,1;0,0;2,0;0,1;126;70;0;1,51;4282;350;1466;2264;517;392;835;949;912;557;520;144;12,6;266;2113;11,1;6,9;1,9;5,9
+silage_corn;intermediate_limestone_plateaux_zone;crop_sequence_with_corn;N2a;13;1,1;0,0;0,1;0,0;1,2;0,1;120;64;0;1,51;4282;350;1400;2264;495;418;835;905;934;487;516;153;12,6;261;2066;12,3;7,7;1,8;5,8
+silage_corn;intermediate_limestone_plateaux_zone;crop_sequence_with_corn;N2a bis;13;0,5;0,0;0,1;0,0;0,6;0,1;120;64;0;1,51;4282;350;1400;2264;464;434;835;936;965;502;531;155;12,7;261;2049;12,8;8,1;1,9;5,9
+silage_corn;intermediate_limestone_plateaux_zone;crop_sequence_with_corn;N2c;13;0,9;0,0;0,1;0,0;1,0;0,1;120;64;0;1,20;2427;175;1400;1454;484;411;506;916;464;505;53;151;12,6;261;2076;11,8;7,5;1,8;4,8
+silage_corn;intermediate_limestone_plateaux_zone;crop_sequence_with_temporary_grassland;Average conventionnal;12,5;1,1;0,0;0,1;0,0;1,2;0;83;48;0;1,20;2427;175;1308;1454;408;354;506;900;540;546;186;132;9,8;240;2458;9,1;6,2;1,5;4,5
+silage_corn;intermediate_limestone_plateaux_zone;crop_sequence_with_temporary_grassland;N0;12,5;1,6;0,0;0,1;0,1;1,8;0;83;48;0;1,20;2427;175;1308;1454;441;358;506;867;507;509;149;132;9,8;240;2452;9,7;6,3;1,5;4,5
+silage_corn;intermediate_limestone_plateaux_zone;crop_sequence_with_temporary_grassland;N1;12,5;1,5;0,0;0,1;0,0;1,6;0,1;83;48;0;1,20;2427;175;1308;1454;434;358;506;874;514;517;157;132;9,8;240;2453;9,6;6,2;1,5;4,5
+silage_corn;intermediate_limestone_plateaux_zone;crop_sequence_with_temporary_grassland;N2a;12;0,9;0,0;0,1;0,0;1,0;0,1;80;48;0;1,20;2427;175;1250;1454;412;376;506;838;536;462;160;139;9,9;233;2349;10,5;6,8;1,5;4,5
+silage_corn;intermediate_limestone_plateaux_zone;crop_sequence_with_temporary_grassland;N2a bis;12;0,4;0,0;0,1;0,0;0,5;0,1;80;48;0;1,20;2427;175;1250;1454;389;392;506;861;559;469;167;142;10,0;233;2326;11,0;7,2;1,5;4,5
+silage_corn;intermediate_limestone_plateaux_zone;crop_sequence_organic_livestock_farming;N3;9;0,0;0,0;0,0;0,0;0,0;0;0;-36;0;1,01;1375;125;1170;1324;383;386;418;787;523;401;137;142;5,7;168;2943;10,2;7,2;0,7;3,0
+spring_barley;intermediate_limestone_plateaux_zone;crop_sequence_with_oilseed_rape;Average conventionnal;4,7;1,1;0,6;0,1;0,2;2,0;0;115;59;0;0;0;0;870;0;364;243;0;505;-364;262;-607;85;9,6;75;776;11,3;4,2;1,2;1,2
+spring_barley;intermediate_limestone_plateaux_zone;crop_sequence_with_oilseed_rape;N0;5;1,8;1,0;0,1;0,4;3,3;0;115;55;0;0;0;0;925;0;434;249;0;491;-434;242;-683;86;9,7;80;822;12,2;4,2;1,3;1,3
+spring_barley;intermediate_limestone_plateaux_zone;crop_sequence_with_oilseed_rape;N2a;4,5;1,0;0,5;0,1;0,0;1,6;0,2;115;62;0;0;0;0;833;0;378;257;0;455;-378;198;-634;92;9,9;72;721;12,0;4,5;1,3;1,3
+spring_barley;intermediate_limestone_plateaux_zone;crop_sequence_organic_field_crops;N3;2,5;0,0;0,0;0,0;0,0;0,0;0;0;42;0;0;0;0;850;0;328;266;0;522;-328;256;-594;91;3,6;40;1093;9,3;4,4;0,6;0,6
+durum_wheat;intermediate_limestone_plateaux_zone;crop_sequence_with_sunflower;Average conventionnal;6,1;1,6;1,7;0,3;0,3;3,9;0;205;77;4;0;0;0;1312;0;549;251;0;762;-549;511;-800;83;14,6;99;676;14,0;4,2;1,9;1,9
+durum_wheat;intermediate_limestone_plateaux_zone;crop_sequence_with_sunflower;N0;6,5;2,1;2,1;0,3;0,5;5,0;0;205;69;4;0;0;0;1398;0;599;259;0;799;-599;540;-858;84;14,7;105;718;15,2;4,3;1,9;1,9
+durum_wheat;intermediate_limestone_plateaux_zone;crop_sequence_with_sunflower;N1;6,4;2,1;1,6;0,2;0,2;4,0;0,1;205;71;4;0;0;0;1376;0;565;251;0;811;-565;560;-816;83;14,6;104;709;14,1;4,2;1,9;1,9
+durum_wheat;intermediate_limestone_plateaux_zone;crop_sequence_with_sunflower;N2a;5,8;1,8;0,9;0,1;0,1;2,9;0,1;180;58;4;0;0;0;1247;0;495;243;0;752;-495;508;-739;82;13,3;94;710;12,8;4,1;1,7;1,7
+durum_wheat;intermediate_limestone_plateaux_zone;crop_sequence_with_sunflower;N2c;5,8;1,5;0,9;0,1;0,1;2,6;0,1;180;58;4;0;0;0;1247;0;481;241;0;766;-481;525;-722;82;13,2;94;711;12,5;4,0;1,7;1,7
+triticale;intermediate_limestone_plateaux_zone;crop_sequence_with_temporary_grassland;Average conventionnal;5,5;1,3;0,7;0,1;0,2;2,3;0;120;65;0;0;0;0;770;0;354;225;0;416;-354;191;-579;78;9,6;87;898;10,0;3,6;1,3;1,3
+triticale;intermediate_limestone_plateaux_zone;crop_sequence_with_temporary_grassland;N0;5,5;1,8;1,0;0,0;0,2;3,0;0;120;65;0;0;0;0;770;0;399;229;0;371;-399;142;-628;79;9,7;87;896;10,6;3,7;1,3;1,3
+triticale;intermediate_limestone_plateaux_zone;crop_sequence_with_temporary_grassland;N2a;4,9;1,1;0,5;0,0;0,0;1,6;0,1;100;55;0;0;0;0;686;0;311;225;0;375;-311;151;-535;78;8,6;77;900;9,8;3,6;1,2;1,2
+triticale;intermediate_limestone_plateaux_zone;crop_sequence_organic_livestock_farming;N3;3;0,0;0,0;0,0;0,0;0,0;0;0;35;0;0;0;0;810;0;190;264;0;620;-190;356;-454;95;3,8;47;1248;8,3;4,5;0,6;0,6
+temporary_grassland;intermediate_limestone_plateaux_zone;crop_sequence_with_temporary_grassland;Average conventionnal;6,5;0,0;0,0;0,0;0,0;0,0;0;35;53;0;1,19;2022;126;780;1188;136;510;421;644;631;134;121;114;6,5;108;1676;12,8;10,0;0,7;3,8
+temporary_grassland;intermediate_limestone_plateaux_zone;crop_sequence_organic_livestock_farming;N3;5,5;0,0;0,0;0,0;0,0;0,0;0;0;31;0;1,06;1158;96;770;1085;144;487;334;626;607;139;120;118;4,7;92;1936;12,2;9,2;0,5;3,0
+alfalfa;intermediate_limestone_plateaux_zone;other_crop_sequence;Average conventionnal;9;0,8;0,0;0,1;0,0;0,9;0;0;-261;0;1,19;2022;126;1215;1188;227;665;421;988;540;323;-125;166;6,6;167;2505;13,0;12,4;0,5;3,6
+alfalfa;intermediate_limestone_plateaux_zone;crop_sequence_organic_field_crops;N3;8;0,0;0,0;0,0;0,0;0,0;0;0;-232;0;0;0;0;1240;0;128;525;0;1112;-128;587;-653;100;4,0;148;3715;16,6;10,7;0,3;0,3
+spring_protein_pea;intermediate_limestone_plateaux_zone;other_crop_sequence;Average conventionnal;3,4;1,2;0,9;1,2;0,1;3,4;0;0;-92;0;0;0;0;680;0;374;256;0;306;-374;51;-629;90;3,6;54;1499;11,0;4,4;0,3;0,3
+winter_protein_pea;intermediate_limestone_plateaux_zone;other_crop_sequence;Average conventionnal;3,5;1,1;1,3;0,7;0,1;3,2;0;0;-109;0;0;0;0;700;0;323;234;0;377;-323;143;-557;81;3,2;55;1709;10,0;3,7;0,3;0,3
+spring_fababean;intermediate_limestone_plateaux_zone;other_crop_sequence;Average conventionnal;2,1;1,2;0,6;0,9;0,1;2,8;0;0;-68;0;0;0;0;441;0;307;237;0;134;-307;-103;-544;81;3,2;34;1047;9,8;3,9;0,3;0,3
+winter_fababean;intermediate_limestone_plateaux_zone;other_crop_sequence;Average conventionnal;2,6;1,4;0,9;0,7;0,1;3,1;0;0;-88;0;0;0;0;546;0;280;217;0;266;-280;49;-497;70;2,8;42;1503;9,0;3,3;0,3;0,3
+spring_oilseed_flax;intermediate_limestone_plateaux_zone;other_crop_sequence;Average conventionnal;1,5;1,5;0,4;0,9;0,2;3,0;0;90;67;0;0;0;0;675;0;377;266;0;298;-377;32;-643;91;8,5;36;425;12,9;4,6;1,1;1,1
+winter_oilseed_flax;intermediate_limestone_plateaux_zone;other_crop_sequence;Average conventionnal;1,8;2,1;1,0;0,1;0,4;3,6;0;85;32;0;0;0;0;810;0;317;236;0;493;-317;257;-553;78;7,7;44;563;11,8;3,7;0,9;0,9
+soybean;intermediate_limestone_plateaux_zone;other_crop_sequence;Average conventionnal;3,1;2,0;0,0;0,0;0,0;2,0;0;0;-175;0;0;0;0;1085;0;326;236;0;759;-326;523;-562;83;3,3;63;1913;8,6;3,5;0,3;0,3
+pulse_cereal_intercrop;intermediate_limestone_plateaux_zone;crop_sequence_organic_field_crops;N3;2,5;0,0;0,0;0,0;0,0;0,0;0;0;-59;0;0;0;0;800;0;198;211;0;602;-198;390;-410;76;3,0;39;1302;7,6;3,3;0,2;0,2
+pulse_cereal_intercrop;intermediate_limestone_plateaux_zone;crop_sequence_organic_livestock_farming;N3;2,5;0,0;0,0;0,0;0,0;0,0;0;0;-59;0;0;0;0;800;0;200;205;0;600;-200;396;-404;78;3,1;39;1268;6,1;3,3;0,2;0,2
+lentil;intermediate_limestone_plateaux_zone;crop_sequence_organic_field_crops;N3;1,2;0,0;0,0;0,0;0,0;0,0;0;0;-14;0;0;0;0;1608;0;316;239;0;1292;-316;1053;-555;92;3,7;20;554;8,0;4,0;0,3;0,3
+soft_wheat;northern_high_potentiality_zone;crop_sequence_with_root_crops;Average conventionnal;9,2;1,7;2,0;0,3;0,9;4,9;0;175;9;0;0;0;0;1472;0;499;220;0;973;-499;753;-719;70;12,3;145;1181;12,3;3,4;1,6;1,6
+soft_wheat;northern_high_potentiality_zone;crop_sequence_with_root_crops;N0;9,5;2,3;2,5;0,6;1,0;6,4;0;175;4;0;0;0;0;1520;0;569;241;0;951;-569;710;-810;73;12,4;150;1207;15,3;3,7;1,6;1,6
+soft_wheat;northern_high_potentiality_zone;crop_sequence_with_root_crops;N1;9,4;2,3;1,8;0,3;0,8;5,2;0,1;175;6;0;0;0;0;1504;0;522;233;0;982;-522;749;-755;72;12,4;149;1199;14,2;3,6;1,6;1,6
+soft_wheat;northern_high_potentiality_zone;crop_sequence_with_root_crops;N2a;8,5;1,9;0,9;0,3;0,3;3,4;0,1;150;-3;0;0;0;0;1360;0;410;217;0;950;-410;733;-627;70;11,0;134;1226;11,8;3,3;1,4;1,4
+soft_wheat;northern_high_potentiality_zone;crop_sequence_with_root_crops;N2c;8,5;1,5;0,9;0,3;0,3;3,0;0,1;150;-3;0;0;0;0;1360;0;391;215;0;969;-391;754;-606;70;10,9;134;1228;11,4;3,3;1,4;1,4
+soft_wheat;northern_high_potentiality_zone;crop_sequence_with_oilseed_rape;Average conventionnal;8,3;1,9;2,2;0,2;0,8;5,1;0;170;32;0;0;0;0;1328;0;523;259;0;805;-523;546;-782;88;12,8;131;1028;14,4;4,3;1,7;1,7
+soft_wheat;northern_high_potentiality_zone;crop_sequence_with_oilseed_rape;N0;8,5;2,5;2,4;0,8;1,0;6,7;0;170;28;0;0;0;0;1360;0;578;277;0;782;-578;505;-855;91;12,9;134;1044;16,9;4,5;1,7;1,7
+soft_wheat;northern_high_potentiality_zone;crop_sequence_with_oilseed_rape;N1;8,4;2,5;1,6;0,4;0,6;5,1;0,2;170;30;0;0;0;0;1344;0;525;268;0;819;-525;551;-793;89;12,8;133;1036;15,7;4,4;1,7;1,7
+soft_wheat;northern_high_potentiality_zone;crop_sequence_with_oilseed_rape;N2a;7,6;2,0;0,7;0,2;0,2;3,1;0,2;145;19;0;0;0;0;1216;0;414;269;0;802;-414;533;-683;97;11,8;120;1021;13,9;4,6;1,5;1,5
+soft_wheat;northern_high_potentiality_zone;crop_sequence_with_oilseed_rape;N2c;7,6;1,5;0,7;0,2;0,2;2,6;0,2;145;19;0;0;0;0;1216;0;388;265;0;828;-388;563;-653;97;11,7;120;1022;13,4;4,5;1,5;1,5
+soft_wheat;northern_high_potentiality_zone;crop_sequence_with_corn;Average conventionnal;7,8;1,5;1,8;0,2;0,6;4,1;0;150;10;0;0;0;0;1248;0;455;218;0;793;-455;575;-673;72;11,0;123;1116;11,4;3,4;1,4;1,4
+soft_wheat;northern_high_potentiality_zone;crop_sequence_with_corn;N0;8;2,1;2,4;0,8;0,8;6,1;0;150;6;0;0;0;0;1280;0;534;239;0;746;-534;508;-772;75;11,2;126;1132;14,4;3,7;1,5;1,5
+soft_wheat;northern_high_potentiality_zone;crop_sequence_with_corn;N1;7,9;2,1;1,6;0,4;0,5;4,6;0,1;150;8;0;0;0;0;1264;0;480;230;0;784;-480;554;-710;74;11,1;125;1123;13,2;3,6;1,4;1,4
+soft_wheat;northern_high_potentiality_zone;crop_sequence_with_corn;N2a;7,2;1,8;0,7;0,2;0,2;2,9;0,1;125;-5;0;0;0;0;1152;0;376;214;0;776;-376;562;-590;72;9,7;114;1175;10,8;3,4;1,2;1,2
+soft_wheat;northern_high_potentiality_zone;crop_sequence_with_corn;N2c;7,2;1,4;0,7;0,2;0,2;2,4;0,1;125;-5;0;0;0;0;1152;0;352;211;0;800;-352;589;-563;72;9,7;114;1177;10,3;3,3;1,2;1,2
+soft_wheat;northern_high_potentiality_zone;crop_sequence_organic_field_crops;N3;5;0,0;0,0;0,0;0,0;0,0;0;0;-60;0;0;0;0;1975;0;309;259;0;1666;-309;1408;-567;97;3,9;79;2045;8,8;4,4;0,4;0,4
+silage_corn;northern_high_potentiality_zone;crop_sequence_with_corn;Average conventionnal;16;1,4;0,0;0,0;0,0;1,4;0;98;36;0;1,90;8726;381;1658;4174;485;383;1421;1173;2268;790;1885;144;11,1;305;2758;10,9;7,0;1,7;7,3
+silage_corn;northern_high_potentiality_zone;crop_sequence_with_corn;N0;16;2,2;0,0;0,1;0,1;2,4;0;98;36;0;1,90;8726;381;1658;4174;534;388;1421;1124;2219;736;1831;144;11,1;305;2751;11,6;7,1;1,7;7,3
+silage_corn;northern_high_potentiality_zone;crop_sequence_with_corn;N1;16;1,9;0,0;0,1;0,0;2,0;0,1;98;36;0;1,90;8726;381;1658;4174;519;386;1421;1139;2234;752;1847;144;11,1;305;2753;11,4;7,0;1,7;7,3
+silage_corn;northern_high_potentiality_zone;crop_sequence_with_corn;N2a;15,5;1,1;0,0;0,1;0,0;1,2;0,1;95;36;0;1,90;8726;381;1600;4174;511;413;1421;1089;2242;676;1829;153;11,3;298;2642;12,6;7,9;1,7;7,4
+silage_corn;northern_high_potentiality_zone;crop_sequence_with_corn;N2a bis;15,5;0,5;0,0;0,1;0,0;0,6;0,1;95;36;0;1,90;8726;381;1600;4174;480;428;1421;1120;2273;692;1845;155;11,4;298;2619;13,1;8,2;1,7;7,4
+silage_corn;northern_high_potentiality_zone;crop_sequence_with_corn;N2c;15,5;0,9;0,0;0,1;0,0;1,0;0,1;95;36;0;1,36;5691;138;1600;2398;500;405;819;1100;1079;695;674;151;11,2;298;2657;12,1;7,6;1,7;5,9
+silage_corn;northern_high_potentiality_zone;crop_sequence_organic_livestock_farming;N3;12;0,0;0,0;0,0;0,0;0,0;0;0;55;0;1,25;3876;76;1560;2270;421;376;454;1139;1395;763;1019;141;5,6;224;3966;9,7;6,9;1,1;4,8
+winter_barley;northern_high_potentiality_zone;crop_sequence_with_oilseed_rape;Average conventionnal;7,8;1,9;1,6;0,1;0,8;4,4;0;140;36;0;0;0;0;1209;0;445;250;0;764;-445;514;-695;87;11,1;124;1120;12,9;4,1;1,5;1,5
+winter_barley;northern_high_potentiality_zone;crop_sequence_with_oilseed_rape;N0;8;2,5;1,6;1,0;1,1;6,2;0;140;33;0;0;0;0;1240;0;491;270;0;749;-491;479;-761;90;11,2;127;1138;15,7;4,4;1,5;1,5
+winter_barley;northern_high_potentiality_zone;crop_sequence_with_oilseed_rape;N1;7,9;2,5;1,3;0,5;0,8;5,1;0,2;140;34;0;0;0;0;1225;0;467;264;0;758;-467;494;-731;89;11,2;126;1127;14,9;4,3;1,5;1,5
+winter_barley;northern_high_potentiality_zone;crop_sequence_with_oilseed_rape;N2a;7,2;2,0;0,8;0,3;0,5;3,6;0,2;115;20;0;0;0;0;1116;0;390;273;0;726;-390;453;-663;98;10,2;115;1128;14,3;4,6;1,3;1,3
+winter_barley;northern_high_potentiality_zone;crop_sequence_with_oilseed_rape;N2c;7,2;1,5;0,8;0,3;0,5;3,1;0,2;115;20;0;0;0;0;1116;0;367;269;0;749;-367;480;-636;97;10,1;115;1130;13,7;4,6;1,3;1,3
+oilseed_rape;northern_high_potentiality_zone;crop_sequence_with_oilseed_rape;Average conventionnal;4,2;1,9;1,2;1,7;0,4;5,2;0;155;95;0;0;0;0;1491;0;440;268;0;1051;-440;783;-708;89;12,0;111;925;14,3;4,4;1,7;1,7
+oilseed_rape;northern_high_potentiality_zone;crop_sequence_with_oilseed_rape;N0;4,5;2,9;1,5;2,7;0,8;7,9;0;155;86;0;0;0;0;1598;0;529;289;0;1068;-529;780;-818;92;12,1;119;981;17,3;4,7;1,7;1,7
+oilseed_rape;northern_high_potentiality_zone;crop_sequence_with_oilseed_rape;N2a;4,4;2,4;1,0;1,4;0,0;4,8;0,3;155;89;0;0;0;0;1562;0;454;268;0;1108;-454;841;-721;89;12,0;116;969;14,3;4,4;1,7;1,7
+oilseed_rape;northern_high_potentiality_zone;crop_sequence_with_oilseed_rape;N2c;4;1,5;0,8;1,4;0,0;3,7;0,3;155;101;0;0;0;0;1420;0;392;258;0;1028;-392;770;-650;87;11,9;105;885;13,0;4,2;1,7;1,7
+sugar_beet;northern_high_potentiality_zone;crop_sequence_with_root_crops;Average conventionnal;99;2,5;1,2;0,1;0,1;3,9;0;90;67;0;0;0;0;2673;0;616;417;0;2057;-616;1640;-1033;146;10,7;386;3604;15,9;6,0;1,5;1,5
+sugar_beet;northern_high_potentiality_zone;crop_sequence_with_root_crops;N0;99;4,2;1,7;1,5;0,1;7,5;0;90;67;0;0;0;0;2673;0;745;434;0;1928;-745;1493;-1180;148;10,8;386;3570;18,4;6,3;1,5;1,5
+sugar_beet;northern_high_potentiality_zone;crop_sequence_with_root_crops;N1;99;3,4;1,3;1,5;0,0;6,2;0,1;90;67;0;0;0;0;2673;0;693;437;0;1980;-693;1543;-1130;149;10,9;386;3556;17,9;6,5;1,5;1,5
+sugar_beet;northern_high_potentiality_zone;crop_sequence_with_root_crops;N2a;89;2,0;1,0;0,8;0,0;3,8;0,1;90;78;0;0;0;0;2403;0;646;516;0;1757;-646;1241;-1162;161;11,3;347;3066;20,0;8,2;1,5;1,5
+sugar_beet;northern_high_potentiality_zone;crop_sequence_organic_field_crops;N3;40;0,0;0,0;0,0;0,0;0,0;0;0;26;0;0;0;0;3200;0;1886;466;0;1314;-1886;849;-2351;166;6,6;156;2351;14,5;67,6;0,8;0,8
+potatoes;northern_high_potentiality_zone;crop_sequence_with_root_crops;Average conventionnal;48;2,4;11,3;1,3;0,3;15,3;0;140;30;22;0;0;0;8400;0;3898;690;0;4502;-3898;3812;-4588;177;15,7;166;1055;26,1;10,2;2,0;2,0
+potatoes;northern_high_potentiality_zone;crop_sequence_with_root_crops;N0;48;3,0;10,0;1,5;0,2;14,7;0;140;30;22;0;0;0;8400;0;3900;691;0;4500;-3900;3810;-4590;178;15,7;166;1055;26,2;10,2;2,0;2,0
+potatoes;northern_high_potentiality_zone;crop_sequence_with_root_crops;N1;48;2,5;6,0;0,8;0,0;9,3;0,2;140;30;22;0;0;0;8400;0;3746;686;0;4654;-3746;3968;-4432;185;16,0;166;1034;22,0;10,4;2,0;2,0
+potatoes;northern_high_potentiality_zone;crop_sequence_with_root_crops;N2a;44;1,6;6,0;0,8;0,0;8,4;0,2;140;43;22;0;0;0;7700;0;3742;735;0;3958;-3742;3223;-4477;202;16,7;152;910;23,8;11,5;2,0;2,0
+potatoes;northern_high_potentiality_zone;crop_sequence_organic_field_crops;N3;32;0,0;0,0;0,0;0,0;0,0;1;0;21;0;0;0;0;10560;0;4924;836;0;5636;-4924;4801;-5759;248;9,9;111;1117;27,0;13,3;1,2;1,2
+grain_corn;northern_high_potentiality_zone;crop_sequence_with_oilseed_rape;Average conventionnal;9,7;1,4;0,0;0,0;0,0;1,4;0;125;41;0;0;0;0;1407;0;421;256;0;985;-421;729;-677;90;10,4;157;1508;10,2;4,3;1,4;1,4
+grain_corn;northern_high_potentiality_zone;crop_sequence_with_oilseed_rape;N0;9,7;2,2;0,0;0,4;0,1;2,7;0;125;41;0;0;0;0;1407;0;473;263;0;933;-473;670;-736;91;10,4;157;1503;11,2;4,4;1,4;1,4
+grain_corn;northern_high_potentiality_zone;crop_sequence_with_oilseed_rape;N1;9,7;1,9;0,0;0,2;0,0;2,1;0,2;125;41;0;0;0;0;1407;0;461;261;0;946;-461;685;-722;90;10,4;157;1504;10,9;4,3;1,4;1,4
+grain_corn;northern_high_potentiality_zone;crop_sequence_with_oilseed_rape;N2a;9,4;1,1;0,0;0,2;0,0;1,3;0,2;125;44;0;0;0;0;1363;0;452;276;0;911;-452;634;-729;94;10,5;152;1439;11,5;4,9;1,4;1,4
+grain_corn;northern_high_potentiality_zone;crop_sequence_with_oilseed_rape;N2a bis;9,4;0,5;0,0;0,2;0,0;0,7;0,2;125;44;0;0;0;0;1363;0;422;292;0;941;-422;650;-713;96;10,6;152;1426;12,0;5,3;1,4;1,4
+grain_corn;northern_high_potentiality_zone;crop_sequence_with_oilseed_rape;N2c;9,4;0,9;0,0;0,2;0,0;1,1;0,2;125;44;0;0;0;0;1363;0;442;276;0;921;-442;644;-719;94;10,5;152;1439;11,5;4,9;1,4;1,4
+fiber_flax;northern_high_potentiality_zone;crop_sequence_with_fiber_flax;Average conventionnal;1,2;2,0;0,5;1,3;0,1;3,9;0;25;-19;3;0;0;0;3480;0;536;484;0;2944;-536;2460;-1020;120;6,3;50;800;15,3;9,4;0,6;0,6
+fiber_flax;northern_high_potentiality_zone;crop_sequence_with_fiber_flax;N0;1,2;2,0;1,0;1,5;0,3;4,8;0;25;-19;3;0;0;0;3480;0;570;491;0;2910;-570;2419;-1061;121;6,3;50;795;16,3;9,5;0,6;0,6
+fiber_flax;northern_high_potentiality_zone;crop_sequence_with_fiber_flax;N2a;1,1;2,0;0,4;0,8;0,0;3,2;0;25;-15;3;0;0;0;3190;0;555;477;0;2635;-555;2158;-1032;118;6,2;46;738;14,2;9,2;0,6;0,6
+temporary_grassland;northern_high_potentiality_zone;crop_sequence_with_temporary_grassland;Average conventionnal;9;0,0;0,0;0,0;0,0;0,0;0;40;84;0;1,36;5691;138;1080;2398;207;716;819;873;1372;157;656;197;10,0;150;1492;11,9;12,9;1,1;5,4
+temporary_grassland;northern_high_potentiality_zone;crop_sequence_organic_livestock_farming;N3;8;0,0;0,0;0,0;0,0;0,0;0;0;44;0;1,25;3876;76;1120;2270;212;684;454;908;1604;223;919;215;8,6;133;1546;10,5;11,3;0,8;4,5
+alfalfa;northern_high_potentiality_zone;other_crop_sequence;Average conventionnal;11;1,0;0,0;0,1;0,0;1,1;0;0;-319;0;1,36;5691;138;1485;2398;296;699;819;1189;-296;489;-996;181;7,2;204;2816;14,9;13,2;0,6;4,8
+alfalfa;northern_high_potentiality_zone;crop_sequence_organic_field_crops;N3;10;0,0;0,0;0,0;0,0;0,0;0;0;-290;0;0;0;0;1550;0;144;532;0;1406;-144;874;-676;102;4,1;185;4535;17,0;10,9;0,3;0,3
+hemp;northern_high_potentiality_zone;other_crop_sequence;Average conventionnal;7,5;0,0;0,0;0,0;0,0;0,0;0,1;100;-5;0;0;0;0;1350;0;353;370;0;997;-353;627;-723;117;10,1;122;1206;12,4;6,7;1,2;1,2
+spring_barley;northern_high_potentiality_zone;other_crop_sequence;Average conventionnal;5,8;1,3;0,7;0,1;0,2;2,3;0;90;3;0;0;0;0;1073;0;361;251;0;712;-361;461;-612;90;8,5;92;1087;11,6;4,4;1,0;1,0
+spring_barley;northern_high_potentiality_zone;crop_sequence_organic_field_crops;N3;3,5;0,0;0,0;0,0;0,0;0,0;0;0;-3;0;0;0;0;1190;0;448;291;0;742;-448;451;-739;102;4,1;56;1366;9,5;5,4;0,5;0,5
+spring_protein_pea;northern_high_potentiality_zone;other_crop_sequence;Average conventionnal;4,5;1,7;1,3;1,5;0,0;4,5;0;0;-140;0;0;0;0;900;0;406;279;0;494;-406;215;-685;101;4,0;71;1763;12,7;5,0;0,3;0,3
+spring_fababean;northern_high_potentiality_zone;other_crop_sequence;Average conventionnal;3,5;1,7;1,1;1,1;0,2;4,1;0;0;-133;0;0;0;0;735;0;371;256;0;364;-371;108;-627;90;3,6;56;1573;11,4;4,5;0,3;0,3
+triticale;northern_high_potentiality_zone;other_crop_sequence;Average conventionnal;6,2;1,4;1,2;0,0;0,5;3,1;0;125;34;0;0;0;0;868;0;395;221;0;473;-395;251;-617;78;9,9;98;986;10,2;3,6;1,3;1,3
+triticale;northern_high_potentiality_zone;crop_sequence_organic_field_crops;N3;4,2;0,0;0,0;0,0;0,0;0,0;0;0;-37;0;0;0;0;1134;0;270;244;0;864;-270;620;-514;90;3,6;66;1833;8,1;4,1;0,4;0,4
+winter_fababean;northern_high_potentiality_zone;crop_sequence_organic_field_crops;N3;2,5;0,0;0,0;0,0;0,0;0,0;0;0;-95;0;0;0;0;950;0;236;255;0;714;-236;460;-490;90;3,6;40;1120;8,5;4,2;0,3;0,3
+pulse_cereal_intercrop;northern_high_potentiality_zone;crop_sequence_organic_livestock_farming;N3;4;0,0;0,0;0,0;0,0;0,0;0;0;-94;0;0;0;0;1280;0;200;205;0;1080;-200;876;-404;78;3,1;63;2029;6,1;3,3;0,2;0,2
+soft_wheat;paris_basin_zone;crop_sequence_with_oilseed_rape;Average conventionnal;7,8;1,9;1,5;0,2;0,8;4,4;0;160;20;0;0;0;0;1248;0;473;250;0;775;-473;525;-723;83;12,0;123;1025;13,9;4,0;1,6;1,6
+soft_wheat;paris_basin_zone;crop_sequence_with_oilseed_rape;N0;8;2,5;2,0;0,8;1,0;6,3;0;160;16;0;0;0;0;1280;0;545;266;0;735;-545;469;-811;85;12,1;126;1044;16,1;4,2;1,6;1,6
+soft_wheat;paris_basin_zone;crop_sequence_with_oilseed_rape;N1;7,9;2,5;1,5;0,4;0,5;4,9;0,2;160;18;0;0;0;0;1264;0;506;259;0;758;-506;499;-765;84;12,1;125;1034;15,1;4,1;1,6;1,6
+soft_wheat;paris_basin_zone;crop_sequence_with_oilseed_rape;N2a;7,2;2,0;0,7;0,2;0,2;3,1;0,2;135;5;0;0;0;0;1152;0;405;262;0;747;-405;485;-667;93;11,0;114;1030;13,7;4,4;1,4;1,4
+soft_wheat;paris_basin_zone;crop_sequence_with_oilseed_rape;N2c;7,2;1,5;0,7;0,2;0,2;2,6;0,2;135;5;0;0;0;0;1152;0;378;258;0;774;-378;516;-636;92;11,0;114;1033;13,1;4,3;1,4;1,4
+soft_wheat;paris_basin_zone;crop_sequence_with_root_crops;Average conventionnal;8,4;1,7;1,9;0,2;0,9;4,7;0;170;19;0;0;0;0;1344;0;494;233;0;850;-494;617;-727;75;12,2;133;1084;13,3;3,6;1,6;1,6
+soft_wheat;paris_basin_zone;crop_sequence_with_root_crops;N0;8,5;2,3;2,5;0,6;1,0;6,4;0;170;17;0;0;0;0;1360;0;570;251;0;790;-570;539;-821;78;12,3;134;1088;15,9;3,9;1,6;1,6
+soft_wheat;paris_basin_zone;crop_sequence_with_root_crops;N1;8,4;2,3;1,8;0,3;0,8;5,2;0,1;170;19;0;0;0;0;1344;0;523;245;0;821;-523;576;-768;77;12,3;133;1078;15,0;3,8;1,6;1,6
+soft_wheat;paris_basin_zone;crop_sequence_with_root_crops;N2a;7,6;1,9;0,9;0,3;0,3;3,4;0,1;145;8;0;0;0;0;1216;0;411;229;0;805;-411;576;-640;75;10,9;120;1104;12,6;3,6;1,4;1,4
+soft_wheat;paris_basin_zone;crop_sequence_with_root_crops;N2c;7,6;1,5;0,9;0,3;0,3;3,0;0,1;145;8;0;0;0;0;1216;0;393;226;0;823;-393;597;-619;75;10,9;120;1105;12,2;3,6;1,4;1,4
+soft_wheat;paris_basin_zone;crop_sequence_organic_field_crops;N3;4;0,0;0,0;0,0;0,0;0,0;0;0;-44;0;0;0;0;1580;0;317;314;0;1263;-317;949;-631;112;4,5;63;1411;10,8;5,5;0,4;0,4
+oilseed_rape;paris_basin_zone;crop_sequence_with_oilseed_rape;Average conventionnal;3,9;1,8;1,2;2,0;0,4;5,4;0;165;87;0;0;0;0;1385;0;453;273;0;932;-453;658;-726;90;12,6;103;819;15,0;4,4;1,7;1,7
+oilseed_rape;paris_basin_zone;crop_sequence_with_oilseed_rape;N0;4;2,9;1,5;4,0;0,8;9,2;0;165;84;0;0;0;0;1420;0;560;300;0;860;-560;560;-860;93;12,7;105;830;18,8;4,8;1,7;1,7
+oilseed_rape;paris_basin_zone;crop_sequence_with_oilseed_rape;N2a;3,9;2,4;1,0;2,0;0,0;5,4;0,3;165;87;0;0;0;0;1385;0;475;274;0;909;-475;635;-749;90;12,6;103;819;15,1;4,4;1,7;1,7
+oilseed_rape;paris_basin_zone;crop_sequence_with_oilseed_rape;N2c;3,6;1,5;0,8;2,0;0,0;4,3;0,3;165;95;0;0;0;0;1278;0;414;265;0;864;-414;600;-678;88;12,5;95;759;13,8;4,3;1,7;1,7
+sugar_beet;paris_basin_zone;crop_sequence_with_root_crops;Average conventionnal;97;2,6;1,9;0,2;0,0;4,7;0;80;8;23;0;0;0;2619;0;804;442;0;1815;-804;1373;-1246;146;11,3;379;3360;18,1;6,9;1,3;1,3
+sugar_beet;paris_basin_zone;crop_sequence_with_root_crops;N0;97;4,2;2,3;1,5;0,1;8,1;0;80;8;23;0;0;0;2619;0;924;456;0;1695;-924;1239;-1380;148;11,3;379;3337;20,1;7,1;1,3;1,3
+sugar_beet;paris_basin_zone;crop_sequence_with_root_crops;N1;97;3,4;1,8;1,5;0,1;6,8;0,1;80;8;23;0;0;0;2619;0;871;456;0;1748;-871;1292;-1327;149;11,4;379;3330;19,3;7,3;1,3;1,3
+sugar_beet;paris_basin_zone;crop_sequence_with_root_crops;N2a;87;2,0;1,2;0,8;0,0;4,0;0,1;80;19;23;0;0;0;2349;0;818;550;0;1531;-818;982;-1367;166;12,1;339;2814;22,7;9,3;1,4;1,4
+sugar_beet;paris_basin_zone;crop_sequence_organic_field_crops;N3;40;0,0;0,0;0,0;0,0;0,0;0;0;16;0;0;0;0;3200;0;1257;478;0;1943;-1257;1466;-1734;171;6,8;156;2282;15,0;37,9;0,7;0,7
+spring_barley;paris_basin_zone;crop_sequence_with_oilseed_rape;Average conventionnal;6,4;1,4;0,9;0,2;0,4;2,9;0;100;4;0;0;0;0;1184;0;392;257;0;792;-392;535;-649;89;9,0;102;1133;12,5;4,5;1,1;1,1
+spring_barley;paris_basin_zone;crop_sequence_with_oilseed_rape;N0;6,5;1,8;1,2;0,1;0,7;3,8;0;100;3;0;0;0;0;1203;0;442;262;0;761;-442;499;-704;90;9,0;104;1148;13,2;4,5;1,1;1,1
+spring_barley;paris_basin_zone;crop_sequence_with_oilseed_rape;N2a;5,8;1,0;0,7;0,1;0,3;2,0;0,2;100;13;0;0;0;0;1073;0;390;268;0;683;-390;415;-658;96;9,3;92;997;12,8;4,8;1,1;1,1
+spring_barley;paris_basin_zone;crop_sequence_organic_field_crops;N3;3,5;0,0;0,0;0,0;0,0;0,0;0;0;-13;0;0;0;0;1190;0;333;328;0;857;-333;530;-660;124;4,9;56;1126;11,1;5,9;0,5;0,5
+winter_barley;paris_basin_zone;crop_sequence_with_oilseed_rape;Average conventionnal;7,3;1,8;1,3;0,1;0,8;4,0;0;125;16;0;0;0;0;1132;0;411;245;0;721;-411;475;-656;85;10,2;116;1141;12,3;4,0;1,3;1,3
+winter_barley;paris_basin_zone;crop_sequence_with_oilseed_rape;N0;7,5;2,5;1,6;1,0;1,1;6,2;0;125;13;0;0;0;0;1163;0;479;267;0;683;-479;416;-746;88;10,3;119;1158;15,4;4,3;1,3;1,3
+winter_barley;paris_basin_zone;crop_sequence_with_oilseed_rape;N1;7,4;2,5;1,3;0,5;0,8;5,1;0,2;125;14;0;0;0;0;1147;0;455;262;0;692;-455;431;-716;87;10,3;118;1147;14,6;4,2;1,3;1,3
+winter_barley;paris_basin_zone;crop_sequence_with_oilseed_rape;N2a;6,7;2,0;0,8;0,3;0,5;3,6;0,2;100;-1;0;0;0;0;1039;0;378;270;0;660;-378;390;-648;96;9,3;107;1150;14,0;4,5;1,1;1,1
+winter_barley;paris_basin_zone;crop_sequence_with_oilseed_rape;N2c;6,7;1,5;0,8;0,3;0,5;3,1;0,2;100;-1;0;0;0;0;1039;0;355;266;0;684;-355;418;-621;96;9,3;107;1153;13,4;4,5;1,1;1,1
+grain_corn;paris_basin_zone;crop_sequence_with_oilseed_rape;Average conventionnal;10;1,7;0,0;0,2;0,1;2,0;0;125;36;0;0;0;0;1450;0;504;270;0;946;-504;675;-775;95;10,6;161;1524;11,3;4,5;1,4;1,4
+grain_corn;paris_basin_zone;crop_sequence_with_oilseed_rape;N0;10;2,2;0,0;0,4;0,1;2,7;0;125;36;0;0;0;0;1450;0;538;274;0;912;-538;638;-812;95;10,6;161;1521;11,8;4,6;1,4;1,4
+grain_corn;paris_basin_zone;crop_sequence_with_oilseed_rape;N1;10;1,9;0,0;0,2;0,0;2,1;0,2;125;36;0;0;0;0;1450;0;525;272;0;925;-525;653;-797;95;10,6;161;1523;11,5;4,6;1,4;1,4
+grain_corn;paris_basin_zone;crop_sequence_with_oilseed_rape;N2a;9,7;1,1;0,0;0,2;0,0;1,3;0,2;125;40;0;0;0;0;1407;0;521;298;0;886;-521;588;-819;104;10,9;157;1430;12,7;5,4;1,4;1,4
+grain_corn;paris_basin_zone;crop_sequence_with_oilseed_rape;N2a bis;9,7;0,5;0,0;0,2;0,0;0,7;0,2;125;40;0;0;0;0;1407;0;490;314;0;917;-490;603;-804;106;11,0;157;1417;13,2;5,8;1,5;1,5
+grain_corn;paris_basin_zone;crop_sequence_with_oilseed_rape;N2c;9,7;0,9;0,0;0,2;0,0;1,1;0,2;125;40;0;0;0;0;1407;0;511;298;0;896;-511;598;-809;104;10,9;157;1430;12,7;5,4;1,4;1,4
+grain_corn;paris_basin_zone;crop_sequence_organic_field_crops;N3;6;0,0;0,0;0,0;0,0;0,0;0;0;66;0;0;0;0;1770;0;698;317;0;1072;-698;755;-1015;103;4,1;97;2350;11,0;5,9;0,8;0,8
+potatoes;paris_basin_zone;crop_sequence_with_root_crops;Average conventionnal;49;2,0;10,0;1,1;0,2;13,3;0;125;-21;99;0;0;0;8575;0;4078;738;0;4497;-4078;3759;-4816;179;18,5;169;913;26,9;12,9;2,0;2,0
+potatoes;paris_basin_zone;crop_sequence_with_root_crops;N0;49;3,0;10,0;1,5;0,2;14,7;0;125;-21;99;0;0;0;8575;0;4148;752;0;4427;-4148;3675;-4900;181;18,6;169;909;28,9;13,1;2,0;2,0
+potatoes;paris_basin_zone;crop_sequence_with_root_crops;N1;49;2,5;6,0;0,8;0,0;9,3;0,2;125;-21;99;0;0;0;8575;0;3994;748;0;4581;-3994;3833;-4742;189;18,9;169;894;24,7;13,3;2,0;2,0
+potatoes;paris_basin_zone;crop_sequence_with_root_crops;N2a;45;1,6;6,0;0,8;0,0;8,4;0,2;125;-7;99;0;0;0;7875;0;3985;796;0;3890;-3985;3094;-4781;205;19,6;156;793;26,5;14,4;2,1;2,1
+durum_wheat;paris_basin_zone;other_crop_sequence;Average conventionnal;7;1,9;1,7;0,2;0,9;4,7;0;220;73;18;0;0;0;1505;0;612;272;0;893;-612;620;-885;88;16,3;114;697;15,9;4,8;2,1;2,1
+silage_corn;paris_basin_zone;other_crop_sequence;Average conventionnal;15;1,5;0,0;0,0;0,0;1,5;0;98;34;0;0;0;0;1558;0;478;383;0;1080;-478;697;-861;144;11,1;287;2583;10,9;7,0;1,6;1,6
+fiber_flax;paris_basin_zone;other_crop_sequence;Average conventionnal;1,1;2,0;0,4;1,5;0,0;3,9;0;20;-16;0;0;0;0;3190;0;513;486;0;2677;-513;2191;-999;122;6,0;46;769;15,0;9,4;0,6;0,6
+spring_protein_pea;paris_basin_zone;other_crop_sequence;Average conventionnal;4,1;1,5;1,4;1,6;0,0;4,5;0;0;-127;0;0;0;0;820;0;412;279;0;408;-412;129;-691;99;4,0;65;1631;12,6;5,0;0,3;0,3
+winter_protein_pea;paris_basin_zone;other_crop_sequence;Average conventionnal;4,2;1,4;1,3;0,7;0,1;3,5;0;0;-130;0;0;0;0;840;0;350;244;0;490;-350;246;-594;84;3,3;66;1980;10,7;3,8;0,3;0,3
+spring_fababean;paris_basin_zone;other_crop_sequence;Average conventionnal;2,8;1,5;1,0;1,0;0,1;3,6;0;0;-106;0;0;0;0;588;0;356;254;0;232;-356;-22;-610;89;3,5;45;1274;10,9;4,4;0,3;0,3
+spring_fababean;paris_basin_zone;crop_sequence_organic_field_crops;N3;2,5;0,0;0,0;0,0;0,0;0,0;0;0;-95;0;0;0;0;950;0;244;271;0;706;-244;435;-515;90;3,6;40;1120;9,0;4,4;0,3;0,3
+winter_fababean;paris_basin_zone;crop_sequence_organic_field_crops;N3;2,5;0,0;0,0;0,0;0,0;0,0;0;0;-95;0;0;0;0;950;0;241;279;0;709;-241;430;-520;97;3,9;40;1037;9,6;4,7;0,3;0,3
+pulse_cereal_intercrop;paris_basin_zone;crop_sequence_organic_field_crops;N3;2,5;0,0;0,0;0,0;0,0;0,0;0;0;-59;0;0;0;0;800;0;207;227;0;593;-207;366;-434;88;3,5;39;1117;6,6;3,8;0,3;0,3
+alfalfa;paris_basin_zone;crop_sequence_organic_field_crops;N3;11;0,0;0,0;0,0;0,0;0,0;0;0;-319;0;0;0;0;1705;0;117;520;0;1588;-117;1067;-638;98;3,9;204;5197;16,3;10,6;0,3;0,3
