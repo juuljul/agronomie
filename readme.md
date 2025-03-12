@@ -1,5 +1,9 @@
+# agronomie
+
+## Résumé 
 ### Notebook d'exploration et de modélisations à partir de datasets issus de l'INRAE (UMR Agronomie). Analyse de différentes cultures de plantes, zones agricoles, modes de culture. Modélisation de rendements agricoles en fonction d'émission de gaz à effet de serre et d'utilisation de fertilisants azotés.
 
+## Description du notebook
 ### Analyse univariée  
 - Présentation des jeux de données
 - Modes de conduite des cultures
@@ -21,8 +25,24 @@
 - Dataset des opérations de chantier
 - Nettoyage des descriptions
 - Nuage de mots
+
+## Utilisation 
+Pour exécuter ce notebook en local, suivre les étapes suivantes: 
+1. **Cloner le repository** :
+   ```bash
+   git clone https://github.com/juuljul/agronomie.git
+   cd agronomie
+
+2. **Créer un environnment virtuel** :
+   ```bash
+   python3 -m venv env
+   source env/bin/activate  # Sur Windows: env\Scripts\activate
+
+3. **Installer les dépendances à l'aide du fichier requirements.txt** :
+   ```bash
+   pip install -r requirements.txt
   
-  
+## Crédits
 #### Les datasets sont issus du dépôt de l'UMR Agronomie (INRAE)
 **Article**: Référentiel de performances économiques, environnementales et sociales de pratiques culturales économes en intrants
 
